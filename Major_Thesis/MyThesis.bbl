@@ -1,0 +1,90 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Butler} et~al.(2006){Butler}, {Wright}, {Marcy}, {Fischer}, {Vogt},
+  {Tinney}, {Jones}, {Carter}, {Johnson}, {McCarthy}, and
+  {Penny}]{2006ApJ...646..505B}
+R.~P. {Butler}, J.~T. {Wright}, G.~W. {Marcy}, D.~A. {Fischer}, S.~S. {Vogt},
+  C.~G. {Tinney}, H.~R.~A. {Jones}, B.~D. {Carter}, J.~A. {Johnson},
+  C.~{McCarthy}, and A.~J. {Penny}.
+\newblock {Catalog of Nearby Exoplanets}.
+\newblock \emph{ApJ}, 646:\penalty0 505--522, jul 2006.
+\newblock \doi{10.1086/504701}.
+
+\bibitem[{Cassan} et~al.(2012){Cassan}, {Kubas}, {Beaulieu}, {Dominik},
+  {Horne}, {Greenhill}, {Wambsganss}, {Menzies}, {Williams}, {J{\o}rgensen},
+  {Udalski}, {Bennett}, {Albrow}, {Batista}, {Brillant}, {Caldwell}, {Cole},
+  {Coutures}, {Cook}, {Dieters}, {Dominis Prester}, {Donatowicz}, {Fouqu{\'e}},
+  {Hill}, {Kains}, {Kane}, {Marquette}, {Martin}, {Pollard}, {Sahu}, {Vinter},
+  {Warren}, {Watson}, {Zub}, {Sumi}, {Szyma{\'n}ski}, {Kubiak}, {Poleski},
+  {Soszynski}, {Ulaczyk}, {Pietrzy{\'n}ski}, and
+  {Wyrzykowski}]{2012Natur.481..167C}
+A.~{Cassan}, D.~{Kubas}, J.-P. {Beaulieu}, M.~{Dominik}, K.~{Horne},
+  J.~{Greenhill}, J.~{Wambsganss}, J.~{Menzies}, A.~{Williams}, U.~G.
+  {J{\o}rgensen}, A.~{Udalski}, D.~P. {Bennett}, M.~D. {Albrow}, V.~{Batista},
+  S.~{Brillant}, J.~A.~R. {Caldwell}, A.~{Cole}, C.~{Coutures}, K.~H. {Cook},
+  S.~{Dieters}, D.~{Dominis Prester}, J.~{Donatowicz}, P.~{Fouqu{\'e}},
+  K.~{Hill}, N.~{Kains}, S.~{Kane}, J.-B. {Marquette}, R.~{Martin}, K.~R.
+  {Pollard}, K.~C. {Sahu}, C.~{Vinter}, D.~{Warren}, B.~{Watson}, M.~{Zub},
+  T.~{Sumi}, M.~K. {Szyma{\'n}ski}, M.~{Kubiak}, R.~{Poleski}, I.~{Soszynski},
+  K.~{Ulaczyk}, G.~{Pietrzy{\'n}ski}, and {\L}.~{Wyrzykowski}.
+\newblock {One or more bound planets per Milky Way star from microlensing
+  observations}.
+\newblock \emph{Nature}, 481:\penalty0 167--169, jan 2012.
+\newblock \doi{10.1038/nature10684}.
+
+\bibitem[{Cumming} et~al.(2008){Cumming}, {Butler}, {Marcy}, {Vogt}, {Wright},
+  and {Fischer}]{2008PASP..120..531C}
+A.~{Cumming}, R.~P. {Butler}, G.~W. {Marcy}, S.~S. {Vogt}, J.~T. {Wright}, and
+  D.~A. {Fischer}.
+\newblock {The Keck Planet Search: Detectability and the Minimum Mass and
+  Orbital Period Distribution of Extrasolar Planets}.
+\newblock \emph{PASP}, 120:\penalty0 531, may 2008.
+\newblock \doi{10.1086/588487}.
+
+\bibitem[Jiang et~al.(2007)Jiang, Yeh, Chang, and Hung]{1538-3881-134-5-2061}
+{Ing-Guey} Jiang, {Li-Chin} Yeh, {Yen-Chang} Chang, and {Wen-Liang} Hung.
+\newblock {On the Mass-Period Distributions and Correlations of Extrasolar
+  Planets}.
+\newblock \emph{ApJ}, 134\penalty0 (5):\penalty0 2061, 2007.
+
+\bibitem[{Kroupa}(2001)]{2001MNRAS.322..231K}
+P.~{Kroupa}.
+\newblock {On the variation of the initial mass function}.
+\newblock \emph{MNRAS}, 322:\penalty0 231--246, apr 2001.
+\newblock \doi{10.1046/j.1365-8711.2001.04022.x}.
+
+\bibitem[{Magnussen}(2004)]{2004CMS...46.397M}
+S.~{Magnussen}.
+\newblock {An algorithm for generating positively correlated Beta-distributed
+  random variables with known marginal distributions and a specified
+  correlation}.
+\newblock \emph{CMStatistics}, 46(2):\penalty0 397--406, feb 2004.
+
+\bibitem[{Nielsen} et~al.(2010){Nielsen}, {Close}, {Biller}, {Masciadri}, and
+  {Lenzen}]{2010EAS....41..107N}
+E.~L. {Nielsen}, L.~M. {Close}, B.~A. {Biller}, E.~{Masciadri}, and
+  R.~{Lenzen}.
+\newblock {Constraints on Extrasolar Planet Populations from VLT NACO/SDI and
+  MMT SDI and Direct Adaptive Optics Imaging Surveys: Giant Planets are Rare at
+  Large Separations}.
+\newblock 41:\penalty0 107--110, jan 2010.
+\newblock \doi{10.1051/eas/1041008}.
+
+\bibitem[{Salpeter}(1955)]{1955ApJ...121..161S}
+E.~E. {Salpeter}.
+\newblock {The Luminosity Function and Stellar Evolution.}
+\newblock \emph{ApJ}, 121:\penalty0 161, jan 1955.
+\newblock \doi{10.1086/145971}.
+
+\bibitem[{Zucker} and {Mazeh}(2002)]{2002ApJ...568L.113Z}
+S.~{Zucker} and T.~{Mazeh}.
+\newblock {On the Mass-Period Correlation of the Extrasolar Planets}.
+\newblock \emph{ApJL}, 568:\penalty0 L113--L116, apr 2002.
+\newblock \doi{10.1086/340373}.
+
+\end{thebibliography}

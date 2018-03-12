@@ -1,0 +1,362 @@
+% **************************************************************************************************************
+% A Classic Thesis Style
+% An Homage to The Elements of Typographic Style
+%
+% Copyright (C) 2011 Andr\'e Miede http://www.miede.de
+%
+% If you like the style then I would appreciate a postcard. My address 
+% can be found in the file ClassicThesis.pdf. A collection of the 
+% postcards I received so far is available online at 
+% http://postcards.miede.de
+%
+% License:
+% This program is free software; you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation; either version 2 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; see the file COPYING.  If not, write to
+% the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+% Boston, MA 02111-1307, USA.
+%
+% **************************************************************************************************************
+% Note:
+%    * You must not use "u etc. in strings/commands that will be spaced out (use \"u or real umlauts instead)
+%    * New enumeration (small caps): \begin{aenumerate} \end{aenumerate}
+%    * For margin notes: \marginpar or \graffito{}
+%    * Do not use bold fonts in this style, it is designed around them
+%    * Use tables as in the examples
+%    * See classicthesis-preamble.sty for useful commands
+% **************************************************************************************************************
+% To Do:
+%		 * [high] Check this out: http://www.golatex.de/koma-script-warnung-in-verbindung-mit-listings-package-t2058.html
+%    * [medium] mathbb in section-titles/chapter-titles => disappears somehow in headlines!!!
+% **************************************************************************************************************
+\PassOptionsToPackage{table,x11names}{xcolor}
+% \PassOptionsToPackage{spanish}{babel}
+\documentclass[twoside,openright,titlepage,numbers=noenddot,headinclude,%1headlines,% letterpaper a4paper
+                footinclude=true,cleardoublepage=empty,abstractoff, % <--- obsolete, remove (todo)
+                BCOR=5mm,paper=a4,fontsize=11pt,%11pt,a4paper,%
+                ngerman,american%
+                ]{scrreprt}
+
+%********************************************************************
+% Note: Make all your adjustments in here
+%*******************************************************
+\usepackage[backref]{classicthesis-preamble}
+
+%*******************************************************
+% Some font experiments
+%*******************************************************
+% \usepackage[osf]{libertine}
+%  \usepackage{hfoldsty}
+%   \usepackage[light,condensed,math]{iwona}
+% \renewcommand{\sfdefault}{iwona}
+% \usepackage{lmodern} % <-- no osf support :-(
+%  \usepackage[urw-garamond]{mathdesign} %<-- no osf support :-(
+%   \usepackage{anttor}
+% \usepackage{ccfonts}
+
+% \usepackage{fouriernc}
+%   \usepackage{pxfonts}
+%  \usepackage{antpolt}
+% \usepackage{mbtimes}
+% \usepackage[QX]{fontenc}
+%  \usepackage{amsmath}
+% \usepackage[T1]{fontenc}
+% \usepackage[bitstream-charter]{mathdesign}
+% \usepackage{condmath}
+%   \usepackage{fouriernc}
+% \usepackage{kerkis}
+% \usepackage{millennial} %millennial.sty not found
+  \usepackage{fourier}
+%  \usepackage{kurier}
+%  \usepackage{mathpazo}
+% \usepackage{mathpple}
+%\usepackage{mathptmx} %esta
+ %\usepackage{euler}
+% \usepackage[utopia]{mathdesign}
+% \usepackage[charter]{mathdesign}
+%  \usepackage[varg]{txfonts}
+% \usepackage{txfonts}
+% \usepackage{arev}
+% \usepackage{cmbright}
+% \usepackage{kmath}
+%\usepackage{mathptmx}
+
+%=========================
+% Algunos paquetes
+%=========================
+\usepackage{makeidx}
+\usepackage{amssymb,bm}
+
+\usepackage{natbib}
+%\usepackage[authoryear,round,colon]{natbib}
+
+\usepackage{environ}
+\usepackage{ifthen}
+\usepackage{enumitem}
+%\usepackage{slashbox}
+\usepackage{anyfontsize}
+\usepackage{hyperref}
+%\usepackage[total={10cm,10cm},top=2cm, left=2cm]{geometry}
+\usepackage{lscape}
+
+\usepackage{leftidx}
+
+\usepackage{relsize}
+
+\usepackage{listings}             % Include the listings-package
+
+%\usepackage{siunitx}
+
+% \usepackage{graphicx}
+% \usepackage{caption}
+% \usepackage{subcaption}
+ 
+
+%=================
+% Un paquete Grafico
+%=================
+\usepackage{boiboites}
+\newboxedtheorem[boxcolor=Blue, background=blue!5, titlebackground=blue!20,titleboxcolor = black]{theo}{}{}
+
+
+%SETUP Hyper=====================================================================================================================
+\hypersetup{colorlinks=true}
+%\hypersetup{urlcolor=red}
+ %\hypersetup{linkcolor=blue}
+ %\hypersetup{citecolor=red}
+% \hypersetup{linkbordercolor=white}
+%================================================================================================================================
+
+
+%=================
+% Graficos Especiales
+%==================
+\usepackage{tikz}
+\usetikzlibrary{shapes,snakes}
+% Tabla
+\usetikzlibrary{calc}
+\pgfdeclarelayer{background}
+\pgfdeclarelayer{foreground}
+\pgfsetlayers{background,main,foreground}
+
+
+%\usepackage[pdftex]{graphicx} % PDFLaTeX
+%\DeclareGraphicsExtensions{.png,.pdf,.jpg}
+%\usepackage[x11names]{xcolor}
+
+
+% \usepackage[spanish]{babel}
+
+
+
+
+%*****************************
+%    MIS COMANDOS
+%*****************************
+% \newcommand{\I}{\noindent}
+% \newcommand{\DTdt}[1]{\frac{d^2{#1}}{dt^2}}
+% \newcommand{\DFdt}[1]{\frac{d{#1}}{dt}}
+% \newcommand{\DdFdt}[1]{\dfrac{d{#1}}{dt}}
+% \newcommand{\Pt}[1]{\overset{\centerdot}{#1}}
+% \newcommand{\PPt}[1]{\overset{\centerdot\centerdot}{#1}}
+% \newcommand{\vel}[1]{\mathbf{\Pt{#1}}}
+% \newcommand{\acel}[1]{\mathbf{\PPt{#1}}}
+% \newcommand{\cruz}[2]{\mathbf{#1}\times\mathbf{#2}}
+% \newcommand{\cruzT}[2]{{#1}\times{#2}}
+% \newcommand{\point}[2]{\mathbf{#1}\cdot\mathbf{#2}}
+% \newcommand{\blue}[1]{\textcolor{blue}{#1}}
+% \newcommand{\red}[1]{\textcolor{red}{#1}}
+% \newcommand{\white}[1]{\textcolor{white}{#1}}
+% \newcommand{\White}{\color{white}}
+% \newcommand{\Dpartial}[1]{\frac{\partial{#1}}{\partial t}}
+% \newcommand{\DTpartial}[1]{\frac{\partial^2{#1}}{\partial t^2}}
+% \newcommand{\Partial}[2]{\frac{\partial{#1}}{\partial {#2}}}
+% \newcommand{\TPartial}[2]{\frac{\partial^2{#1}}{\partial {#2}^2}}
+% \newcommand{\bs}[1]{\boldsymbol{#1}}
+% \newcommand{\w}{\omega}
+% \newcommand{\unit}[1]{\mathbf{\hat{{#1}}}}
+% \newcommand{\cor}[1]{\left[ #1\right]}
+% \newcommand{\pr}[1]{\left( #1\right)}
+% \newcommand{\rd}{\mathrm{d}}
+% \newcommand{\hs}[1]{\hspace{#1}}
+% \newcommand{\vs}[1]{\vspace{#1}}
+% \newcommand{\Deg}{\text{\textdegree}\;}
+%#####################################
+% \newcommand{\enum}[1]{\begin{enumerate} #1  \end{enumerate}}
+% \newcommand{\sizeF}[2]{\fontsize{#1}{#1}\selectfont #2}
+% \newcommand{\spS}[1]{\quad #1 \quad}
+% \newcommand{\spD}[1]{\quad #1 \quad}
+% \newcommand{\mbf}[1]{\mathbf{#1}}
+%####################################
+\renewcommand\thefootnote{\textcolor{red}{\arabic{footnote}}} % Poniendole color al footnote}
+%\renewcommand{\figurename}{Figura}
+%\renewcommand*{\contentsname}{Contenido}
+% \newcommand{\adg}{$a\dagger$}
+
+
+% \tikzstyle{mybox} = [draw=blue, fill=blue!10, very thick,
+%     rectangle, rounded corners, inner sep=10pt, inner ysep=20pt]
+% \tikzstyle{fancytitle} =[fill=blue!30, text=black]
+
+
+%=========================
+% MY ENVIROMENTS
+%=========================
+\NewEnviron{BOX}[2]{%
+      \tikzstyle{mybox} = [draw=blue, fill=blue!5, very thick, rectangle, rounded corners, inner sep=10pt, inner ysep=20pt]
+      \tikzstyle{fancytitle} =[fill=red, text=white]
+      \begin{tikzpicture}
+      \node [mybox] (box){%
+	  \begin{minipage}{#1\textwidth}
+	  \textit{\BODY}
+	  \end{minipage}
+      };
+      \ifthenelse{\equal{#2}{}}{Blank}{\node[fancytitle, right=10pt,rounded corners] at (box.north west) {#2};}
+%       \newif\ifTitle
+%       \Titletrue
+% 	\ifTitle{
+% 	\node[fancytitle, right=10pt,rounded corners] at (box.north west) {#2};
+% 	\node[fancytitle, rounded corners] at (box.east) {$\clubsuit$};}
+% 	\else
+% 	%
+% 	\fi
+      \end{tikzpicture}%
+}
+
+ %*******************
+ % listas con puntos
+ %*******************
+ \RequirePackage{enumitem}
+ \newcommand*{\itembolasgrises}[1]{%
+ \footnotesize\protect\tikz[baseline=-3pt]%
+ \protect\node[fill=gray!50,shape=circle,draw,inner sep=1.2pt,line width=0.2mm](n1){#1};}
+ \newcommand*{\itembolasazules}[1]{%
+ \footnotesize\protect\tikz[baseline=-3pt]%
+ \protect\node[scale=.2, circle, shade, ball color=blue]  {\color{white}{\fontsize{50pt}{50pt}\selectfont\bf#1}};}
+ \newcommand*{\itembolasverdes}[1]{%
+ \footnotesize\protect\tikz[baseline=-3pt]%
+ \protect\node[scale=.2, circle, shade, ball color=green]  {\color{white}fontsize{50pt}{50pt} \selectfont\bf#1};}
+ \newcommand*{\itembolasrojas}[1]{%
+  \footnotesize\protect\tikz[baseline=-3pt]%
+  \protect\node[scale=.2, circle, shade, ball color=red]  {\color{white}fontsize{50pt}{50pt} \selectfont\bf#1};}
+
+
+
+%*******************************************************
+% Fine-tuning for the text area
+%*******************************************************
+% Margenes anteriores 
+% \linespread{1.05} % a bit more for Palatino
+% \areaset[current]{312pt}{761pt} % 686 (factor 2.2) + 33 head + 42 head \the\footskip
+% \areaset[current]{350pt}{760pt}
+% \setlength{\marginparwidth}{7em}%
+% \setlength{\marginparsep}{2em}%
+
+\linespread{1.05} % a bit more for Palatino
+% \areaset[current]{312pt}{761pt} % 686 (factor 2.2) + 33 head + 42 head \the\footskip
+\areaset[current]{430pt}{760pt}
+\setlength{\marginparwidth}{8.5em}%
+\setlength{\marginparsep}{2em}%
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+%\brokenpenalty=10000    %Desabilita los saltos de lineas y de pagina
+%\hyphenpenalty=10000
+\pretolerance=2000
+\tolerance=3000
+
+% ********************************************************************
+% GO!GO!GO! MOVE IT!
+%*******************************************************
+\makeindex  %esto es para crear el INDICE ALFABETICO
+
+
+\begin{document}
+\frenchspacing
+\raggedbottom
+%\selectlanguage{spanish}
+\selectlanguage{american} % american ngerman
+
+%\renewcommand*{\bibname}{new name}
+%\setbibpreamble{}
+\pagenumbering{roman}
+\pagestyle{plain}
+%********************************************************************
+% Frontmatter
+%*******************************************************
+%\include{FrontBackmatter/DirtyTitlepage}
+\include{FrontBackmatter/Titlepage}
+\include{FrontBackmatter/Titleback}
+ %\cleardoublepage\include{FrontBackmatter/Dedication}
+\cleardoublepage\include{FrontBackmatter/Abstract}
+ %\cleardoublepage\include{FrontBackmatter/Publication}
+\cleardoublepage\include{FrontBackmatter/Acknowledgments}
+% \pagestyle{scrheadings}
+\cleardoublepage\include{FrontBackmatter/Contents}
+%********************************************************************
+% Mainmatter
+%*******************************************************
+%\include{Capitulos/Introduccion}
+\pagenumbering{arabic}
+%\setcounter{page}{90}
+% use \cleardoublepage here to avoid problems with pdfbookmark
+\cleardoublepage
+
+% \part{Conceptos Preliminares}
+\include{Capitulos/Chapter01}
+\include{Capitulos/Chapter02}
+\include{Capitulos/Chapter03}
+\include{Capitulos/Chapter04}
+\include{Capitulos/Chapter05}
+ \cleardoublepage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Esto es una descripcion del capitulo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \ctparttext{You can put some informational part preamble text here. 
+% Illo principalmente su nos. Non message \emph{occidental} angloromanic
+% da. Debitas effortio simplificate sia se, auxiliar summarios da que,
+% se avantiate publicationes via. Pan in terra summarios, capital
+% interlingua se que. Al via multo esser specimen, campo responder que
+% da. Le usate medical addresses pro, europa origine sanctificate nos se.}
+
+% \part{The Showcase}
+% \include{Capitulos/Chapter02}
+%\addtocontents{toc}{\protect\clearpage} % <--- just debug stuff, ignore
+% \include{Chapters/Chapter03}
+%\include{multiToC} % <--- just debug stuff, ignore for your documents
+% ********************************************************************
+% Backmatter
+%*******************************************************
+%\appendix
+%\cleardoublepage
+% \part{Appendix}
+% \include{Chapters/Chapter0A}
+%********************************************************************
+% Other Stuff in the Back
+%*******************************************************
+% \cleardoublepage\include{FrontBackmatter/Bibliography}
+% \cleardoublepage\include{FrontBackmatter/Colophon}
+% \cleardoublepage\include{FrontBackmatter/Declaration}
+%  \newpage{\pagestyle{empty}\cleardoublepage}
+\cleardoublepage\include{FrontBackmatter/Bibliography}
+
+\cleardoublepage\include{Capitulos/Appendix}
+
+% \printindex     esto es para crear el INDICE ALFABETICO
+% ********************************************************************
+% Game Over: Restore, Restart, or Quit?
+%*******************************************************
+\end{document}
+% ********************************************************************

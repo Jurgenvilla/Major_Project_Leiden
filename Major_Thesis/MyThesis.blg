@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MyThesis.aux
+A level-1 auxiliary file: FrontBackmatter/Titlepage.aux
+A level-1 auxiliary file: FrontBackmatter/Titleback.aux
+A level-1 auxiliary file: FrontBackmatter/Abstract.aux
+A level-1 auxiliary file: FrontBackmatter/Acknowledgments.aux
+A level-1 auxiliary file: FrontBackmatter/Contents.aux
+A level-1 auxiliary file: Capitulos/Chapter01.aux
+A level-1 auxiliary file: Capitulos/Chapter02.aux
+A level-1 auxiliary file: Capitulos/Chapter03.aux
+A level-1 auxiliary file: Capitulos/Chapter04.aux
+A level-1 auxiliary file: Capitulos/Chapter05.aux
+A level-1 auxiliary file: FrontBackmatter/Bibliography.aux
+The style file: plainnat.bst
+A level-1 auxiliary file: Capitulos/Appendix.aux
+Database file #1: Bibliografia.bib
+Warning--empty journal in 2010EAS....41..107N
+You've used 9 entries,
+            2773 wiz_defined-function locations,
+            681 strings with 7907 characters,
+and the built_in function-call counts, 6735 in all, are:
+= -- 528
+> -- 678
+< -- 4
++ -- 228
+- -- 219
+* -- 672
+:= -- 1119
+add.period$ -- 34
+call.type$ -- 9
+change.case$ -- 100
+chr.to.int$ -- 9
+cite$ -- 19
+duplicate$ -- 185
+empty$ -- 349
+format.name$ -- 230
+if$ -- 1328
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 60
+num.names$ -- 36
+pop$ -- 180
+preamble$ -- 1
+purify$ -- 91
+quote$ -- 0
+skip$ -- 176
+stack$ -- 0
+substring$ -- 180
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 99
+warning$ -- 1
+while$ -- 36
+width$ -- 0
+write$ -- 137
+(There was 1 warning)

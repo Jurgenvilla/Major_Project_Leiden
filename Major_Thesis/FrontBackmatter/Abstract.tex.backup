@@ -1,0 +1,23 @@
+%*******************************************************
+% Abstract
+%*******************************************************
+%\renewcommand{\abstractname}{Abstract}
+\pdfbookmark[1]{Abstract}{Abstract}
+\begingroup
+\let\clearpage\relax
+\let\cleardoublepage\relax
+\let\cleardoublepage\relax
+
+% \chapter*{Abstract}
+\chapter*{Abstract}
+
+
+\vfill
+
+We present Atacama Large Millimeter/submillimeter Array (ALMA) band 4 (\textcolor{RoyalBlue}{$145$ $\mathrm{GHz}$}) observations of 51 ALESS sources. A CO($4\longrightarrow3$)-emission line for ALESS070.1 and ALESS122.1 at $\textcolor{RoyalBlue}{138.88 \pm 0.02}$ $\textcolor{RoyalBlue}{\mathrm{GHz}}$ and $\textcolor{RoyalBlue}{152.44 \pm 0.01}$ $\textcolor{RoyalBlue}{\mathrm{GHz}}$ were detected at $\sim6\sigma$ and $\sim10\sigma$ respectively. Using the line luminosity measured through this transition, we estimate the amount of molecular gas to be in terms of the CO-to-$\mathrm{M_{H_2}}$ conversion factor, $\textcolor{RoyalBlue}{\mathrm{M_{H_2}} = (11.74\pm4.76)~10^{10}~\mathrm{M_\odot}\alpha_\mathrm{CO}}$ and $\textcolor{RoyalBlue}{\mathrm{M_{H_2}} = (13.56\pm4.2)~10^{10}~\mathrm{M_\odot}\alpha_\mathrm{CO}}$. Our derived spectroscopic redshift of $\textcolor{RoyalBlue}{z\sim2.0252}$ and the measured molecular mass for ALESS122.1 are consistent with previous observations. The redshift measured for ALESS070.1 corresponds to $\textcolor{RoyalBlue}{z\sim2.3197}$ and represents a plausible solution to a discrepancy in previous measurements from the optic spectrum. An estimation of the dynamical mass for both sources and implications of the CO-SLED for ALESS122.1 were also studied.\medskip \\
+
+Key words:\textit{Submillimeter galaxies - (SMGs)}, \textit{ALESS-survey}, \textit{CO line emission}, \textit{Spectroscopic redshift}, \textit{Molecular mass}.
+
+\endgroup			
+
+\vfill
