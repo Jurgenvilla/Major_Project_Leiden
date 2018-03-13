@@ -63,9 +63,9 @@ Subsequently, if the random variable is distributed uniformly between $0$ and $1
 \end{equation}
 \endgroup\\
 
-The planetary mass-period distribution, and the stellar mass distribution will be generated following the simple power law explained above with a Monte-Carlo process in \autoref{sec:MCSec}. Although a different method was also explored for the planetary mass-period distribution due to a possible weakly dependence in both parameters (\cauthor{1538-3881-134-5-2061}\citeyear{1538-3881-134-5-2061}, \cauthor{2002ApJ...568L.113Z}\citeyear{2002ApJ...568L.113Z}), we decided to kept the power law method to model them as it is also widely used and studied in literature (\cauthor{2010EAS....41..107N}\citeyear{2010EAS....41..107N}, \cauthor{2008PASP..120..531C}\citeyear{2008PASP..120..531C}, \cauthor{2006ApJ...646..505B}\citeyear{2006ApJ...646..505B}).  
+The planetary mass-period distribution, and the stellar mass distribution will be generated following the simple power law explained above with a Monte-Carlo process in \autoref{sec:MCSec}. Although a different method was also explored for the planetary mass-period distribution due to a possible weakly dependence in both parameters (\cauthor{1538-3881-134-5-2061}\citeyear{1538-3881-134-5-2061}; \cauthor{2002ApJ...568L.113Z}\citeyear{2002ApJ...568L.113Z}), we decided to kept the power law method to model them as it is also widely used and studied in literature (\cauthor{2010EAS....41..107N}\citeyear{2010EAS....41..107N}; \cauthor{2008PASP..120..531C}\citeyear{2008PASP..120..531C}; \cauthor{2006ApJ...646..505B}\citeyear{2006ApJ...646..505B}).  
 
-\section{Exoplanets: Period-Mass Distributions}
+\section{Exoplanets: Period-Mass Distributions}\label{ref:PM_ExoPlanet}
 
 In order to draw a reliable distribution sample of period and mass for exoplanets, we used two different approaches. The first approach uses the $\beta$-distribution because there exits a weakly correlation between the period and mass of an exoplanet as shown by \cauthor{2002ApJ...568L.113Z}\citeyear{2002ApJ...568L.113Z} which makes the distribution analysis not suitable to be addressed by two independent power laws that describe the joint period-mass distribution. Alternatively, one can assume that as the correlation is weak, then each variable can be treated as independent and the distributions may be generated using single power laws as it is also widely explored by other authors (\cauthor{2010EAS....41..107N}\citeyear{2010EAS....41..107N}). Therefore, as there exists two different forms to address the generation of these distributions, both ways were explored and implemented in this work.\\
 
@@ -121,7 +121,7 @@ In short, the mass and period distributions can be then generated using \autoref
 
 \subsection{Single Power-Law}\label{subsec:SPLDist}
 
-As discussed in \autoref{sec:PowerLawSec} and \autoref{subsec:BetaDist}, the planetary mass and period are weakly correlated, so one can ignore that and addressed the problem as independent single power laws. In the past, this has been studied by (\cauthor{2008PASP..120..531C}\citeyear{2008PASP..120..531C}, \cauthor{2006ApJ...646..505B}\citeyear{2006ApJ...646..505B}) considering the distributions of semimajor axis and planet mass of known radial velocity planets. However, in recent studies, \cauthor{2010EAS....41..107N}\citeyear{2010EAS....41..107N} noted that due to a decrease in sensitivity of the radial velocity method with orbital distance the exponent of the distribution must be modified. The single power law distributions in mass, semimajor axis and period are shown in \autoref{eq:MassPeriodDist}.\\
+As discussed in \autoref{sec:PowerLawSec} and \autoref{subsec:BetaDist}, the planetary mass and period are weakly correlated, so one can ignore that and addressed the problem as independent single power laws. In the past, this has been studied by (\cauthor{2008PASP..120..531C}\citeyear{2008PASP..120..531C}; \cauthor{2006ApJ...646..505B}\citeyear{2006ApJ...646..505B}) considering the distributions of semimajor axis and planet mass of known radial velocity planets. However, in recent studies, \cauthor{2010EAS....41..107N}\citeyear{2010EAS....41..107N} noted that due to a decrease in sensitivity of the radial velocity method with orbital distance the exponent of the distribution must be modified. The single power law distributions in mass, semimajor axis and period are shown in \autoref{eq:MassPeriodDist}.\\
 
 \begingroup
 \Large
@@ -182,6 +182,139 @@ On the other hand, in $2001$, a different formulation was proposed by Pavel Krou
 \endgroup\\
 
 The IMF generation will be addressed in the same fashion as explained above for the Salpeter's power law, where a Monte-Carlo process will be used and the normalization constant will be set to the total number of stars in a mass range $m_1 < m < m_2$. 
+
+%============================================================================================================================================================
+\section{Probability of Transit Detection}
+
+%Star with a planet, Gaia detectability
+
+One of the main goals in this work is to constrain the probability of detecting an exo-ring transit around young stars using \textit{Gaia} observations. We should start thinking about the possible factors which could affect the most their detectability such as the geometry of the transit, the chance to observe a star with planets around it, the probability of detecting any feature with \textit{Gaia}'s cadence, the time it takes to form a ring around a planet and how long it lasts, or the probability of a given planet to have its Hill sphere filled with some material which could possible form rings. A few of this probabilities are hard to compute, basically because the only knowledge we have is provided through observations of our own solar system as could be the rings lifetime. However, we can make our best guess and provide at least a lower boundary of the transit probability detection, and lately obtain the number of planets one would expect to observe given some survey features.\\
+
+First, we decided to constrain our detectability prediction as a product of five independent probabilities  as shown in \autoref{eq:Probabilities}, where $P_1$ corresponds to the probability of a given star to have a planet, $P_2$ gives the probability of a planet to have its Hill sphere filled with material that would coalesce and form rings, $P_3$ constrains the probability of observing exoplanetary rings transiting in front of their parent star given an observer in the universe, and $P_4$ the probability of observing at least one transit with \textit{Gaia} in all the mission lifetime. Apart from these four probabilities, we included another one to account for the rings lifetime but it was addressed separately to study how this could affect the overall outcome and is explained in \autoref{subsec:RingsSec}.\\
+
+\begingroup
+\Large
+\begin{equation}
+ \textnormal{P}_{\textnormal{transit}} = \textnormal{P}_1 * \textnormal{P}_2 * \textnormal{P}_3 * \textnormal{P}_4
+ \label{eq:Probabilities}
+\end{equation}
+\endgroup\\
+
+On top of that, we can start constructing each probability in terms of their main variables. Firstly, the probability of a star having a planet was set to a value of $P_1 = 0.17$ which means that a star has on average a $17\%$ chance of hosting a planet. This value was set based on \cauthor{2012Natur.481..167C}\citeyear{2012Natur.481..167C} work where a statistical analysis of microlensing data was carried out, revealing that around $17\%$ of stars host Jupiter-mass planets from $0.3M_j$ to $10M_j$. If super-Earths or cool-Neptunes are taken into account this probability is higher, however, as was explained in \autoref{ref:PM_ExoPlanet}, the Jupiter-mass planets' probability is in the perfect mass range we want to study, thus, we took this value as a reference to start working out the detectability.\\
+
+Secondly, we proceed to set a value for $P_2$ or the chance a planet has to have its Hill sphere filled with material able to form planetary rings. The Hill sphere of an object can be defined as a circular region surrounding the object, inside which, the attraction of satellites dominates and can orbit around the main body. Mathematically speaking, if we have two bodies, let's say a star of mass $M_\star$ and a planet of mass $m$, and orbital semi-major axis $a$ and orbital eccentricity $e$, then the planet's Hill sphere radius can be approximated by \autoref{eq:HillSpherePlanet} as presented in (\cauthor{2017MNRAS.471..740O}\citeyear{2017MNRAS.471..740O}; \cauthor{2016A&A...596A...9R}\citeyear{2016A&A...596A...9R}). This equation will be used later in \autoref{subsec:GeometryTransit} in order to compute the duration of the eclipse in terms of the Hill sphere which is crucial for our probabilistic formulation.\\ 
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{R}_\textnormal{H} \approx \textnormal{a}(1 - \textnormal{e}) \left(\frac{\textnormal{m}}{3\textnormal{M}_\star} \right)^{1/3}
+ \label{eq:HillSpherePlanet}
+\end{equation}
+\endgroup\\
+
+We chose the most optimistic case and set it to one, which corresponds to a $100\%$ chance of having material orbiting around the planet inside the Hill sphere. This is mainly because as we want to study young stars, we expect the planet to be immersed in an environment full of material to form moons or make the planet grow which can create a disk around it and subsequently create the exo-rings. Although this was not based on scientific material present in literature, we consider the best case so given some observations one could constraint it better and lower down this probability.\\
+
+On the other hand, we have the probabilities associated with the transit and the rings' lifetime. However, this will be explain thoroughly in \autoref{subsec:GeometryTransit}, and  \autoref{subsec:RingsSec} so for the moment we can focus on the fourth probability related to the chance of observing at least one transit with \textit{Gaia}. In this case, it is important to have in mind that the number of times a given star is observed in this mission strongly depends on the scanning-law of the instrument. In average, depending on the position in the sky an object can be observed $\sim70$ times during the five-year nominal operations phase \cauthor{2016A&A...595A...1G}\citeyear{2016A&A...595A...1G}, thus, if we assume each observation as independent, this represents the number of trials one has to observe a transit around a given object. In other words, the probability will be the product of each trial. One might consider the worst case, namely, not observing the transit, which will be given in terms of the number of trials ($n$), the \textit{Gaia} mission duration, and the eclipse duration itself. This probability, corresponding to $P_4$ in \autoref{eq:Probabilities} is given in \autoref{eq:Prob4}.\\
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{P}_4 = 1 - \left( \frac{\textnormal{Gaia}~\textnormal{Duration} - \textnormal{Eclipse}~\textnormal{Duration}}{\textnormal{Gaia}~\textnormal{Duration}} \right)^\textnormal{n}
+ \label{eq:Prob4}
+\end{equation}
+\endgroup\\
+
+The eclipse duration in our case is strongly related to the Hill sphere of the planet as we do not want to compute the probability of detecting a planet in front of its host star but the exo-rings which could be embedded in the Hill sphere of the planet. Therefore, we have to consider the size of the rings which is given by the time it takes those rings to transit in front of the stellar disk times the orbital velocity assumed to be the same as the circular velocity. Thus, $d_{disk} = v_{circ} t_{ecl}$ and $v_{circ} = 2\pi a/P$, with $a$ and $P$ corresponding to the planet's orbital semi-major axis and orbital period. If we consider the Kepler's third law and also assuming the mass of the parent star to be much larger than the planet and exo-rings mass i.e. $M_\star \gg m$, we can rewrite the circular velocity and use it in the disk diameter equation to obtain the duration of the eclipse \autoref{eq:DurationEclipse} in terms of the orbital period, the planet and exo-rings mass, and a new parameter which tells us what is the fraction of the Hill sphere that the exo-rings disk fills as presented by \cauthor{2017MNRAS.471..740O}\citeyear{2017MNRAS.471..740O}. In our particular case we have decided to set $\xi = 0.3$, which means that $30\%$ of the Hill sphere is filled with material which is typical for a prograde rotating disc and it is also known as the stability criterion (\cauthor{1998ApJ...508..707Q}\citeyear{1998ApJ...508..707Q}; \cauthor{2003AJ....126..398N}\citeyear{2003AJ....126..398N}).
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{t}_{\textnormal{ecl}} = \frac{\textnormal{P} \xi}{\pi} \left( \frac{\textnormal{m}}{3\textnormal{M}_\star} \right)^{1/3}
+ \label{eq:DurationEclipse}
+\end{equation}
+\endgroup\\
+
+In the next sub-sections, we present the geometry of the transit and its relation to obtain the probability $P_3$. Also the rings lifetime is presented and discussed as we aim to constrain the probability as much as possible and the rings lifetime is crucial in our analysis.   
+
+\subsection{Geometry of the Transit}\label{subsec:GeometryTransit}
+
+As was mentioned before, we aim to obtain how likely is to observe exo-rings transiting in front of their host star. Thus, we have to first obtain the transit probability of a planet and extrapolate this result which is the most general case to our particular situation. First of all, let's consider a star which is transited by a planet in the observer's line of sight as shown in \autoref{fig:Transit_1}. Here, $a$ represents the orbital semi-major axis of the planet, and $d_\star$ the stellar disk diameter. The fraction of area on the celestial sphere which is swept out by the shadow of the planet during one orbital period is given by the ratio between the annulus projected onto the celestial sphere and the total superficial area of the celestial sphere given by \autoref{eq:ProbTransit_1} as presented in \cauthor{1984Icar...58..121B}\citeyear{1984Icar...58..121B}. However, from the image it is clear that $s = y\theta$ and $d_\star = a\theta$, hence \autoref{eq:ProbTransit_1} can be written as \autoref{eq:ProbTransit_2} and taking the limit when $y \rightarrow \infty$ we can obtain the transit probability shown in \autoref{eq:ProbTransit_3}. This takes into account that the observation of the planet and its parent star is performed at random orientations with respect to the inclination angle of the planet's plane of orbit. Clearly, this probability only depends on the radius of the star and the planet orbital semi-major axis because in this case the planet is just a point-like source and its radius has been neglected. However, in our case we care about the Hill sphere size which is filled with the rings, then we need to change \autoref{eq:ProbTransit_3} slightly.\\ 
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{P} = \frac{2\pi (\textnormal{a} + \textnormal{y}) \textnormal{s}}{4\pi (\textnormal{a} + \textnormal{y})^2}
+ \label{eq:ProbTransit_1}
+\end{equation}
+\endgroup
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{P} = \frac{\textnormal{y}\textnormal{d}_\star}{2 (\textnormal{a} + \textnormal{y}) \textnormal{a}}
+ \label{eq:ProbTransit_2}
+\end{equation}
+\endgroup
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{P} = \frac{\textnormal{d}_\star}{2 \textnormal{a}} = \frac{\textnormal{R}_\star}{a}
+ \label{eq:ProbTransit_3}
+\end{equation}
+\endgroup\\
+
+\begin{figure}[!ht]
+\centering
+  \subfloat{\includegraphics[width = 8cm, height = 8cm]{./Graficos/Capitulo_2/Illustrations/Prob_1.png}} 
+\caption{\scriptsize{Something!}}
+\label{fig:Transit_1}
+\end{figure}
+
+Now, the transit will not be produced by the point-like source but by its rings as a whole. The geometry for this scenario is shown in \autoref{fig:Transit_2} where $R_\star$ is the stellar disk radius, $a$ represents the orbital semi-major axis and $R_H$ is the Hill sphere radius. The orbital inclination of $i = 0^\circ$ means the pole is on, whilst $i = 90^\circ$ means the equator is on. The transit can occur in two different ways:\\
+
+\begin{enumerate}
+\item Grazing transit $\textnormal{a}\cos \textnormal{i} \leq \textnormal{R}_\star + \textnormal{R}_\textnormal{H}$
+\item Full transit $\textnormal{a}\cos \textnormal{i} \leq \textnormal{R}_\star - \textnormal{R}_\textnormal{H}$
+\end{enumerate}
+
+\begin{figure}[!ht]
+\centering
+  \subfloat{\includegraphics[width = 17cm, height = 5cm]{./Graficos/Capitulo_2/Illustrations/Prob_2.png}} 
+\caption{\scriptsize{Something!}}
+\label{fig:Transit_2}
+\end{figure}
+
+This is mainly dominated by the orbital inclination of the planet. Considering that the angle between the orbital inclination pole and the line of sight lies in a range ($i$, $i + \Delta i$), and it is randomly distributed as was assumed before, and also that transits occur only in nearly edge-on orbits i.e. $\textnormal{a}\cos \textnormal{i} \leq \textnormal{R}_\star + \textnormal{R}_\textnormal{H}$, we expect the probability to be uniform in $\cos \textnormal{i}$ as shown in \autoref{fig:Transit_3}. Thus, the transit probability will be given by
+
+\begingroup
+\Large
+\begin{equation}
+\textnormal{P} \left( \cos \textnormal{i} < \frac{\textnormal{R}_\star + \textnormal{R}_\textnormal{H}}{\textnormal{a}} \right) = \frac{\textnormal{R}_\star + \textnormal{R}_\textnormal{H}}{\textnormal{a}}
+ \label{eq:ProbTransit_4}
+\end{equation}
+\endgroup
+
+\begin{figure}[!ht]
+\centering
+  \subfloat{\includegraphics[width = 12cm, height = 6cm]{./Graficos/Capitulo_2/Illustrations/Prob_4.png}} 
+\caption{\scriptsize{Something!}}
+\label{fig:Transit_3}
+\end{figure}
+
+Then, in short, the transit probability of exoplanetary-rings in orbit around a given star where the orbital inclination is randomly distributed will be set by \autoref{eq:ProbTransit_4}, where we only need to consider the stellar and planet Hill sphere radii $R_\star$ and $R_H$ respectively, and the orbital semi-major axis. Apart from this, we need to care about when, and how long the rings can co-exist inside the Hill sphere of the planet. This probability was added at the end in order to study the overall change of what was assumed in \autoref{eq:Probabilities} and is presented in the next sub-section. 
+
+\subsection{Rings Lifetime}\label{subsec:RingsSec}
+
+It is well-known that the rings formation is a non-static phenomena, and there is no privileged epoch in the formation of a planetary system when these features can form. On the other hand the only example, so far, we have to compare with, is our own solar system, making the statistical comparison quite hard in terms of deriving the exact formation conditions and time ranges. Nevertheless, simulations and current observations allow us to estimate the main processes that modify these structures, and give us a glimpse on their formation timescales.\\
+
+Currently, most of the statistics are based on \textit{Hot Jupiters} \cauthor{2013pss3.book..309T}\citeyear{2013pss3.book..309T}. However, there exists different problems with this, because the formation of rings around such objects can be affected by the low-obliquities causing the rings to edge-on or the small Hill sphere radius where they can be embedded in. In addition, viscous and Poynting-Robertson drags cause particle loss , and the high equilibrium black-body temperatures avoid materials to remain the solid state. Survival of the remnant ring depends on if they were created by tidal disruptions or continuous feeding because this will set the timescale on which the rings are expected to exist \cauthor{1984prin.conf..641H}\citeyear{1984prin.conf..641H}. In our particular case, the most important question regarding the rings is: What is their age?. This is because we need to know how long they are expected to live in order to properly compute the probability of observing ring systems around a planet given the overall age of the star and the planetary system itself. The age of the rings can be affected by the mean residence time of the particles on the rings or by how long the structure/sources have been in place For example in the case of Jupiter, if some moons suddenly disappear, or cease emitting dust, the rings will dissipate in $\sim 10^5$yr \cauthor{2013pss3.book..309T}\citeyear{2013pss3.book..309T}. Interaction and physical processes may change or reset the age as can be the shepherding of the moons inside the rings leading to an age range of $100\times 10^6$-$6\times10^8$yr \cauthor{1994P&SS...42.1139C}\citeyear{1994P&SS...42.1139C}, or ring's viscous spreading ($10^5$-$10^9$yr based on Saturn's ring A) \cauthor{2009sfch.book..537C}\citeyear{2009sfch.book..537C} or ($\sim10^9$yr) from viscous timescales if the gas is considered to be non-turbulent \cauthor{1984prin.conf..641H}\citeyear{1984prin.conf..641H}. There exists also the chance that the ring is completely disrupted (based on the fragmentation criteria), so in that case we end up with a time for complete loss of the rings of $10^{7}$-$10^8$yr \cauthor{1994P&SS...42.1139C}\citeyear{1994P&SS...42.1139C} or based on evolutionary processes $< 10^8$yr \cauthor{2009sfch.book..537C}\citeyear{2009sfch.book..537C}. On the other hand, considering cometary passages which could break a satellite or to tidally disrupt the comet applied to Saturn's ring lead to a time range of $10^7$-$10^8$yr for the A-ring, $10^8$-$10^9$yr for the B-ring, and $10^7$yr from radial spreading \cauthor{2009sfch.book..537C}\citeyear{2009sfch.book..537C}.\\
+
+As has been presented above, different age ranges can be derived for the rings lifetime through models and observations of our own solar system. However, the remaining question is: Do they form at the very beginning, the middle or the end of the planetary system formation?. According to \cauthor{2009Icar..199..413C}\citeyear{2009Icar..199..413C} the main core of Saturn's B-ring was formed in the first Gyr of the solar system in which collisions are expected to be much more likely. However, from simulations it is pointed out Saturn's ring formation can be understood a huge disruption near the end of the planetary formation period during which the circum-planetary gas disk is still present \cauthor{2010Natur.468..943C}\citeyear{2010Natur.468..943C}. If we look to Uranus or Neptune,   
+
+
+\cauthor{}\citeyear{}
+%============================================================================================================================================================
 
 \section{Monte-Carlo simulations}\label{sec:MCSec}
 
@@ -244,33 +377,5 @@ The IMF generation will be addressed in the same fashion as explained above for 
 
 %============================================================================================================================================================
 
+\section{Analytic Form}
 %============================================================================================================================================================
-\section{Probability of Transit Detection}
-
-%Star with a planet, Gaia detectability
-
-One of the main goals in this work is to constrain the probability of detecting an exo-ring transit around young stars using \textit{Gaia} observations. We should start thinking about the possible factors which could affect the most their detectability such as the geometry of the transit, the chance to observe a star with planets around it, the probability of detecting any feature with \textit{Gaia}'s cadence, the time it takes to form a ring around a planet and how long it lasts, or the probability of a given planet to have its Hill sphere filled with some material which could possible form rings. A few of this probabilities are hard to compute, basically because the only knowledge we have is provided through observations of our own solar system as could be the rings lifetime. However, we can make our best guess and provide at least a lower boundary of the probability of transit detection, and lately obtain the number of planets one would expect to observe given some survey features.\\
-
-First, we decided to constrain our detectability prediction as a product of five independent probabilities  as shown in \autoref{eq:Probabilities}, where $P_1$ corresponds to the probability of a given star to have a planet, $P_2$ gives the probability of a planet to have its Hill sphere filled with material that would coalesce and form rings, $P_3$ constrains the probability of observing exoplanetary rings transiting in front of their parent star given an observer in the universe, and $P_4$ the probability of observing at least one transit with \textit{Gaia} in all the mission lifetime. Apart from these four probabilities, we included another one to account for the rings lifetime but it was addressed separately to study how this could affect the overall outcome and is explained in \autoref{RingsSec}.\\
-
-\begingroup
-\Large
-\begin{equation}
- \textnormal{P}_{\textnormal{transit}} = \textnormal{P}_1 * \textnormal{P}_2 * \textnormal{P}_3 * \textnormal{P}_4
- \label{eq:Probabilities}
-\end{equation}
-\endgroup
-
-On top of that, we can start 
-
-
-\subsection{Geometry of the Transit}
-\subsection{Hill Sphere}
-\subsection{Rings Lifetime Constrain}\label{subsec:RingsSec}
-
-%============================================================================================================================================================
-
-
-%============================================================================================================================================================
-\subsection{Analytic Form}
-

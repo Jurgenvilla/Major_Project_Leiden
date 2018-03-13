@@ -15,24 +15,23 @@
 \contentsline {section}{\numberline {2.4}Stellar Mass Distribution}{7}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Salpeter Power-Law}{7}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Kroupa Power-Law}{7}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}Monte-Carlo simulations}{8}{section.2.5}
-\contentsline {section}{\numberline {2.6}Probability of Transit Detection}{8}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Geometry of the Transit}{13}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Hill Sphere}{13}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Rings Lifetime Constrain}{13}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Analytic Form}{13}{subsection.2.6.4}
-\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {\textbf {}}}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Gaia Samples}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Stellar Evolution Models}{15}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Evolutionary Tracks}{15}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Isochrones}{15}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Sco-Cen OB Association}{15}{section.3.4}
-\contentsline {section}{\numberline {3.5}Light Curves}{15}{section.3.5}
-\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {\textbf {Results and Discussion} }}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{17}{section.4.1}
-\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {\textbf { Summary} }}{19}{chapter.5}
+\contentsline {section}{\numberline {2.5}Probability of Transit Detection}{8}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Geometry of the Transit}{10}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Rings Lifetime}{13}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Monte-Carlo simulations}{14}{section.2.6}
+\contentsline {section}{\numberline {2.7}Analytic Form}{14}{section.2.7}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {\textbf {}}}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Gaia Samples}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Stellar Evolution Models}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Evolutionary Tracks}{21}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Isochrones}{21}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Sco-Cen OB Association}{21}{section.3.4}
+\contentsline {section}{\numberline {3.5}Light Curves}{21}{section.3.5}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {\textbf {Results and Discussion} }}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{23}{section.4.1}
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {\textbf { Summary} }}{25}{chapter.5}
 \vspace {\beforebibskip }
-\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{21}{dummy.4}
-\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps { \textbf {Appendix} }}{23}{chapter.6}
-\contentsline {section}{\numberline {6.1}SQL-queries}{23}{section.6.1}
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{27}{dummy.4}
+\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps { \textbf {Appendix} }}{29}{chapter.6}
+\contentsline {section}{\numberline {6.1}SQL-queries}{29}{section.6.1}

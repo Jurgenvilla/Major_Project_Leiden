@@ -1,9 +1,15 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{21}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Borucki} and {Summers}(1984)]{1984Icar...58..121B}
+W.~J. {Borucki} and A.~L. {Summers}.
+\newblock {The photometric method of detecting other planetary systems}.
+\newblock \emph{ICARUS}, 58:\penalty0 121--134, apr 1984.
+\newblock \doi{10.1016/0019-1035(84)90102-7}.
 
 \bibitem[{Butler} et~al.(2006){Butler}, {Wright}, {Marcy}, {Fischer}, {Vogt},
   {Tinney}, {Jones}, {Carter}, {Johnson}, {McCarthy}, and
@@ -14,6 +20,13 @@ R.~P. {Butler}, J.~T. {Wright}, G.~W. {Marcy}, D.~A. {Fischer}, S.~S. {Vogt},
 \newblock {Catalog of Nearby Exoplanets}.
 \newblock \emph{ApJ}, 646:\penalty0 505--522, jul 2006.
 \newblock \doi{10.1086/504701}.
+
+\bibitem[{Canup}(2010)]{2010Natur.468..943C}
+R.~M. {Canup}.
+\newblock {Origin of Saturn's rings and inner moons by mass removal from a lost
+  Titan-sized satellite}.
+\newblock \emph{Nature}, 468:\penalty0 943--946, dec 2010.
+\newblock \doi{10.1038/nature09661}.
 
 \bibitem[{Cassan} et~al.(2012){Cassan}, {Kubas}, {Beaulieu}, {Dominik},
   {Horne}, {Greenhill}, {Wambsganss}, {Menzies}, {Williams}, {J{\o}rgensen},
@@ -37,6 +50,28 @@ A.~{Cassan}, D.~{Kubas}, J.-P. {Beaulieu}, M.~{Dominik}, K.~{Horne},
 \newblock \emph{Nature}, 481:\penalty0 167--169, jan 2012.
 \newblock \doi{10.1038/nature10684}.
 
+\bibitem[{Charnoz} et~al.(2009{\natexlab{a}}){Charnoz}, {Dones}, {Esposito},
+  {Estrada}, and {Hedman}]{2009sfch.book..537C}
+S.~{Charnoz}, L.~{Dones}, L.~W. {Esposito}, P.~R. {Estrada}, and M.~M.
+  {Hedman}.
+\newblock \emph{{Origin and Evolution of Saturn's Ring System}}, page 537.
+\newblock 2009{\natexlab{a}}.
+\newblock \doi{10.1007/978-1-4020-9217-6_17}.
+
+\bibitem[{Charnoz} et~al.(2009{\natexlab{b}}){Charnoz}, {Morbidelli}, {Dones},
+  and {Salmon}]{2009Icar..199..413C}
+S.~{Charnoz}, A.~{Morbidelli}, L.~{Dones}, and J.~{Salmon}.
+\newblock {Did Saturn's rings form during the Late Heavy Bombardment?}
+\newblock \emph{ICARUS}, 199:\penalty0 413--428, feb 2009{\natexlab{b}}.
+\newblock \doi{10.1016/j.icarus.2008.10.019}.
+
+\bibitem[{Colwell}(1994)]{1994P&SS...42.1139C}
+J.~E. {Colwell}.
+\newblock {The disruption of planetary satellites and the creation of planetary
+  rings}.
+\newblock \emph{Planet. Space Sci.}, 42:\penalty0 1139--1149, dec 1994.
+\newblock \doi{10.1016/0032-0633(94)90013-2}.
+
 \bibitem[{Cumming} et~al.(2008){Cumming}, {Butler}, {Marcy}, {Vogt}, {Wright},
   and {Fischer}]{2008PASP..120..531C}
 A.~{Cumming}, R.~P. {Butler}, G.~W. {Marcy}, S.~S. {Vogt}, J.~T. {Wright}, and
@@ -45,6 +80,22 @@ A.~{Cumming}, R.~P. {Butler}, G.~W. {Marcy}, S.~S. {Vogt}, J.~T. {Wright}, and
   Orbital Period Distribution of Extrasolar Planets}.
 \newblock \emph{PASP}, 120:\penalty0 531, may 2008.
 \newblock \doi{10.1086/588487}.
+
+\bibitem[{Gaia Collaboration} et~al.(2016){Gaia Collaboration}, {Prusti}, {de
+  Bruijne}, {Brown}, {Vallenari}, {Babusiaux}, {Bailer-Jones}, {Bastian},
+  {Biermann}, {Evans}, and et~al.]{2016A&A...595A...1G}
+{Gaia Collaboration}, T.~{Prusti}, J.~H.~J. {de Bruijne}, A.~G.~A. {Brown},
+  A.~{Vallenari}, C.~{Babusiaux}, C.~A.~L. {Bailer-Jones}, U.~{Bastian},
+  M.~{Biermann}, D.~W. {Evans}, and et~al.
+\newblock {The Gaia mission}.
+\newblock \emph{A\&A}, 595:\penalty0 A1, nov 2016.
+\newblock \doi{10.1051/0004-6361/201629272}.
+
+\bibitem[{Harris}(1984)]{1984prin.conf..641H}
+A.~W. {Harris}.
+\newblock {The origin and evolution of planetary rings}.
+\newblock In R.~{Greenberg} and A.~{Brahic}, editors, \emph{IAU Colloq. 75:
+  Planetary Rings}, pages 641--659, 1984.
 
 \bibitem[Jiang et~al.(2007)Jiang, Yeh, Chang, and Hung]{1538-3881-134-5-2061}
 {Ing-Guey} Jiang, {Li-Chin} Yeh, {Yen-Chang} Chang, and {Wen-Liang} Hung.
@@ -65,6 +116,13 @@ S.~{Magnussen}.
   correlation}.
 \newblock \emph{CMStatistics}, 46(2):\penalty0 397--406, feb 2004.
 
+\bibitem[{Nesvorn{\'y}} et~al.(2003){Nesvorn{\'y}}, {Alvarellos}, {Dones}, and
+  {Levison}]{2003AJ....126..398N}
+D.~{Nesvorn{\'y}}, J.~L.~A. {Alvarellos}, L.~{Dones}, and H.~F. {Levison}.
+\newblock {Orbital and Collisional Evolution of the Irregular Satellites}.
+\newblock \emph{AJ}, 126:\penalty0 398--429, jul 2003.
+\newblock \doi{10.1086/375461}.
+
 \bibitem[{Nielsen} et~al.(2010){Nielsen}, {Close}, {Biller}, {Masciadri}, and
   {Lenzen}]{2010EAS....41..107N}
 E.~L. {Nielsen}, L.~M. {Close}, B.~A. {Biller}, E.~{Masciadri}, and
@@ -75,11 +133,47 @@ E.~L. {Nielsen}, L.~M. {Close}, B.~A. {Biller}, E.~{Masciadri}, and
 \newblock 41:\penalty0 107--110, jan 2010.
 \newblock \doi{10.1051/eas/1041008}.
 
+\bibitem[{Osborn} et~al.(2017){Osborn}, {Rodriguez}, {Kenworthy}, {Kennedy},
+  {Mamajek}, {Robinson}, {Espaillat}, {Armstrong}, {Shappee}, {Bieryla},
+  {Latham}, {Anderson}, {Beatty}, {Berlind}, {Calkins}, {Esquerdo}, {Gaudi},
+  {Hellier}, {Holoien}, {James}, {Kochanek}, {Kuhn}, {Lund}, {Pepper},
+  {Pollacco}, {Prieto}, {Siverd}, {Stassun}, {Stevens}, {Stanek}, and
+  {West}]{2017MNRAS.471..740O}
+H.~P. {Osborn}, J.~E. {Rodriguez}, M.~A. {Kenworthy}, G.~M. {Kennedy}, E.~E.
+  {Mamajek}, C.~E. {Robinson}, C.~C. {Espaillat}, D.~J. {Armstrong}, B.~J.
+  {Shappee}, A.~{Bieryla}, D.~W. {Latham}, D.~R. {Anderson}, T.~G. {Beatty},
+  P.~{Berlind}, M.~L. {Calkins}, G.~A. {Esquerdo}, B.~S. {Gaudi}, C.~{Hellier},
+  T.~W.-S. {Holoien}, D.~{James}, C.~S. {Kochanek}, R.~B. {Kuhn}, M.~B. {Lund},
+  J.~{Pepper}, D.~L. {Pollacco}, J.~L. {Prieto}, R.~J. {Siverd}, K.~G.
+  {Stassun}, D.~J. {Stevens}, K.~Z. {Stanek}, and R.~G. {West}.
+\newblock {Periodic eclipses of the young star PDS 110 discovered with WASP and
+  KELT photometry}.
+\newblock \emph{MNRAS}, 471:\penalty0 740--749, oct 2017.
+\newblock \doi{10.1093/mnras/stx1249}.
+
+\bibitem[{Quillen} and {Trilling}(1998)]{1998ApJ...508..707Q}
+A.~C. {Quillen} and D.~E. {Trilling}.
+\newblock {Do Proto-jovian Planets Drive Outflows?}
+\newblock \emph{ApJ}, 508:\penalty0 707--713, dec 1998.
+\newblock \doi{10.1086/306421}.
+
+\bibitem[{Rieder} and {Kenworthy}(2016)]{2016A&A...596A...9R}
+S.~{Rieder} and M.~A. {Kenworthy}.
+\newblock {Constraints on the size and dynamics of the J1407b ring system}.
+\newblock \emph{A\&A}, 596:\penalty0 A9, nov 2016.
+\newblock \doi{10.1051/0004-6361/201629567}.
+
 \bibitem[{Salpeter}(1955)]{1955ApJ...121..161S}
 E.~E. {Salpeter}.
 \newblock {The Luminosity Function and Stellar Evolution.}
 \newblock \emph{ApJ}, 121:\penalty0 161, jan 1955.
 \newblock \doi{10.1086/145971}.
+
+\bibitem[{Tiscareno}(2013)]{2013pss3.book..309T}
+M.~S. {Tiscareno}.
+\newblock \emph{{Planetary Rings}}, page 309.
+\newblock 2013.
+\newblock \doi{10.1007/978-94-007-5606-9_7}.
 
 \bibitem[{Zucker} and {Mazeh}(2002)]{2002ApJ...568L.113Z}
 S.~{Zucker} and T.~{Mazeh}.
