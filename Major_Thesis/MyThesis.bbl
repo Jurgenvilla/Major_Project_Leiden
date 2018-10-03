@@ -1,9 +1,81 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{79}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Alibert} et~al.(2005){Alibert}, {Mordasini}, {Benz}, and
+  {Winisdoerffer}]{2005A&A...434..343A}
+Y.~{Alibert}, C.~{Mordasini}, W.~{Benz}, and C.~{Winisdoerffer}.
+\newblock {Models of giant planet formation with migration and disc evolution}.
+\newblock \emph{A\&A}, 434:\penalty0 343--353, apr 2005.
+\newblock \doi{10.1051/0004-6361:20042032}.
+
+\bibitem[{Arenou} et~al.(2017){Arenou}, {Luri}, {Babusiaux}, {Fabricius},
+  {Helmi}, {Robin}, {Vallenari}, {Blanco- Cuaresma}, {Cantat-Gaudin},
+  {Findeisen}, {Reyl{\'e}}, {Ruiz-Dern}, {Sordo}, {Turon}, {Walton}, {Shih},
+  {Antiche}, {Barache}, {Barros}, {Breddels}, {Carrasco}, {Costigan},
+  {Diakit{\'e}}, {Eyer}, {Figueras}, {Galluccio}, {Heu}, {Jordi},
+  {Krone-Martins}, {Lallement}, {Lambert}, {Leclerc}, {Marrese}, {Moitinho},
+  {Mor}, {Romero-G{\'o}mez}, {Sartoretti}, {Soria}, {Soubiran}, {Souchay},
+  {Veljanoski}, {Ziaeepour}, {Giuffrida}, {Pancino}, and
+  {Bragaglia}]{2017A&A...599A..50A}
+F.~{Arenou}, X.~{Luri}, C.~{Babusiaux}, C.~{Fabricius}, A.~{Helmi}, A.~C.
+  {Robin}, A.~{Vallenari}, S.~{Blanco- Cuaresma}, T.~{Cantat-Gaudin},
+  K.~{Findeisen}, C.~{Reyl{\'e}}, L.~{Ruiz-Dern}, R.~{Sordo}, C.~{Turon}, N.~A.
+  {Walton}, I.~C. {Shih}, E.~{Antiche}, C.~{Barache}, M.~{Barros},
+  M.~{Breddels}, J.~M. {Carrasco}, G.~{Costigan}, S.~{Diakit{\'e}}, L.~{Eyer},
+  F.~{Figueras}, L.~{Galluccio}, J.~{Heu}, C.~{Jordi}, A.~{Krone-Martins},
+  R.~{Lallement}, S.~{Lambert}, N.~{Leclerc}, P.~M. {Marrese}, A.~{Moitinho},
+  R.~{Mor}, M.~{Romero-G{\'o}mez}, P.~{Sartoretti}, S.~{Soria}, C.~{Soubiran},
+  J.~{Souchay}, J.~{Veljanoski}, H.~{Ziaeepour}, G.~{Giuffrida}, E.~{Pancino},
+  and A.~{Bragaglia}.
+\newblock {Gaia Data Release 1. Catalogue validation}.
+\newblock \emph{A\&A}, 599:\penalty0 A50, Mar 2017.
+\newblock \doi{10.1051/0004-6361/201629895}.
+
+\bibitem[{Astropy Collaboration} et~al.(2013){Astropy Collaboration},
+  {Robitaille}, {Tollerud}, {Greenfield}, {Droettboom}, {Bray}, {Aldcroft},
+  {Davis}, {Ginsburg}, {Price-Whelan}, {Kerzendorf}, {Conley}, {Crighton},
+  {Barbary}, {Muna}, {Ferguson}, {Grollier}, {Parikh}, {Nair}, {Unther},
+  {Deil}, {Woillez}, {Conseil}, {Kramer}, {Turner}, {Singer}, {Fox}, {Weaver},
+  {Zabalza}, {Edwards}, {Azalee Bostroem}, {Burke}, {Casey}, {Crawford},
+  {Dencheva}, {Ely}, {Jenness}, {Labrie}, {Lim}, {Pierfederici}, {Pontzen},
+  {Ptak}, {Refsdal}, {Servillat}, and {Streicher}]{2013A&A...558A..33A}
+{Astropy Collaboration}, T.~P. {Robitaille}, E.~J. {Tollerud}, P.~{Greenfield},
+  M.~{Droettboom}, E.~{Bray}, T.~{Aldcroft}, M.~{Davis}, A.~{Ginsburg}, A.~M.
+  {Price-Whelan}, W.~E. {Kerzendorf}, A.~{Conley}, N.~{Crighton}, K.~{Barbary},
+  D.~{Muna}, H.~{Ferguson}, F.~{Grollier}, M.~M. {Parikh}, P.~H. {Nair}, H.~M.
+  {Unther}, C.~{Deil}, J.~{Woillez}, S.~{Conseil}, R.~{Kramer}, J.~E.~H.
+  {Turner}, L.~{Singer}, R.~{Fox}, B.~A. {Weaver}, V.~{Zabalza}, Z.~I.
+  {Edwards}, K.~{Azalee Bostroem}, D.~J. {Burke}, A.~R. {Casey}, S.~M.
+  {Crawford}, N.~{Dencheva}, J.~{Ely}, T.~{Jenness}, K.~{Labrie}, P.~L. {Lim},
+  F.~{Pierfederici}, A.~{Pontzen}, A.~{Ptak}, B.~{Refsdal}, M.~{Servillat}, and
+  O.~{Streicher}.
+\newblock {Astropy: A community Python package for astronomy}.
+\newblock \emph{A\&A}, 558:\penalty0 A33, oct 2013.
+\newblock \doi{10.1051/0004-6361/201322068}.
+
+\bibitem[{Barnes} and {Fortney}(2004)]{2004ApJ...616.1193B}
+J.~W. {Barnes} and J.~J. {Fortney}.
+\newblock {Transit Detectability of Ring Systems around Extrasolar Giant
+  Planets}.
+\newblock \emph{ApJ}, 616:\penalty0 1193--1203, dec 2004.
+\newblock \doi{10.1086/425067}.
+
+\bibitem[{Blaauw}(1946)]{Blaauw46}
+A.~{Blaauw}.
+\newblock {A Study of the Scorpio-Centaurus Cluster}.
+\newblock \emph{Publications of the Kapteyn Astronomical Laboratory Groningen},
+  52:\penalty0 1--132, Jan 1946.
+
+\bibitem[{Bland-Hawthorn} and {Gerhard}(2016)]{2016ARA&A..54..529B}
+J.~{Bland-Hawthorn} and O.~{Gerhard}.
+\newblock {The Galaxy in Context: Structural, Kinematic, and Integrated
+  Properties}.
+\newblock \emph{ARA\&A}, 54:\penalty0 529--596, sep 2016.
+\newblock \doi{10.1146/annurev-astro-081915-023441}.
 
 \bibitem[{Borucki} and {Summers}(1984)]{1984Icar...58..121B}
 W.~J. {Borucki} and A.~L. {Summers}.
@@ -21,12 +93,59 @@ R.~P. {Butler}, J.~T. {Wright}, G.~W. {Marcy}, D.~A. {Fischer}, S.~S. {Vogt},
 \newblock \emph{ApJ}, 646:\penalty0 505--522, jul 2006.
 \newblock \doi{10.1086/504701}.
 
+\bibitem[{Butters} et~al.(2010){Butters}, {West}, {Anderson}, {Collier
+  Cameron}, {Clarkson}, {Enoch}, {Haswell}, {Hellier}, {Horne}, {Joshi},
+  {Kane}, {Lister}, {Maxted}, {Parley}, {Pollacco}, {Smalley}, {Street},
+  {Todd}, {Wheatley}, and {Wilson}]{2010A&A...520L..10B}
+O.~W. {Butters}, R.~G. {West}, D.~R. {Anderson}, A.~{Collier Cameron}, W.~I.
+  {Clarkson}, B.~{Enoch}, C.~A. {Haswell}, C.~{Hellier}, K.~{Horne},
+  Y.~{Joshi}, S.~R. {Kane}, T.~A. {Lister}, P.~F.~L. {Maxted}, N.~{Parley},
+  D.~{Pollacco}, B.~{Smalley}, R.~A. {Street}, I.~{Todd}, P.~J. {Wheatley}, and
+  D.~M. {Wilson}.
+\newblock {The first WASP public data release}.
+\newblock \emph{A\&A}, 520:\penalty0 L10, sep 2010.
+\newblock \doi{10.1051/0004-6361/201015655}.
+
+\bibitem[{Cameron}(2016)]{Cameron2016}
+A.~C. {Cameron}.
+\newblock {Extrasolar Planetary Transits. In: Bozza V., Mancini L., Sozzetti A.
+  (eds) Methods of Detecting Exoplanets}.
+\newblock \emph{Astrophysics and Space Science Library}, 428. Springer, Cham,
+  2016.
+\newblock \doi{10.1007/978-3-319-27458-4_2}.
+
 \bibitem[{Canup}(2010)]{2010Natur.468..943C}
 R.~M. {Canup}.
 \newblock {Origin of Saturn's rings and inner moons by mass removal from a lost
   Titan-sized satellite}.
 \newblock \emph{Nature}, 468:\penalty0 943--946, dec 2010.
 \newblock \doi{10.1038/nature09661}.
+
+\bibitem[{Canup} and {Ward}(2009)]{2009euro.book...59C}
+R.~M. {Canup} and W.~R. {Ward}.
+\newblock {Origin of Europa and the Galilean Satellites}.
+\newblock \emph{Europa, Edited by Robert T.~Pappalardo, William B.~McKinnon,
+  Krishan K.~Khurana ; with the assistance of Ren{\'e} Dotson with 85
+  collaborating authors.~University of Arizona Press, Tucson, 2009.~The
+  University of Arizona space science series ISBN: 9780816528448, p.59},
+  page~59, 2009.
+
+\bibitem[{Carrasco} et~al.(2016){Carrasco}, {Evans}, {Montegriffo}, {Jordi},
+  {van Leeuwen}, {Riello}, {Voss}, {De Angeli}, {Busso}, {Fabricius},
+  {Cacciari}, {Weiler}, {Pancino}, {Brown}, {Holland}, {Burgess}, {Osborne},
+  {Altavilla}, {Gebran}, {Ragaini}, {Galleti}, {Cocozza}, {Marinoni},
+  {Bellazzini}, {Bragaglia}, {Federici}, and
+  {Balaguer-N{\'u}{\~n}ez}]{2016A&A...595A...7C}
+J.~M. {Carrasco}, D.~W. {Evans}, P.~{Montegriffo}, C.~{Jordi}, F.~{van
+  Leeuwen}, M.~{Riello}, H.~{Voss}, F.~{De Angeli}, G.~{Busso}, C.~{Fabricius},
+  C.~{Cacciari}, M.~{Weiler}, E.~{Pancino}, A.~G.~A. {Brown}, G.~{Holland},
+  P.~{Burgess}, P.~{Osborne}, G.~{Altavilla}, M.~{Gebran}, S.~{Ragaini},
+  S.~{Galleti}, G.~{Cocozza}, S.~{Marinoni}, M.~{Bellazzini}, A.~{Bragaglia},
+  L.~{Federici}, and L.~{Balaguer-N{\'u}{\~n}ez}.
+\newblock {Gaia Data Release 1. Principles of the photometric calibration of
+  the G band}.
+\newblock \emph{A\&A}, 595:\penalty0 A7, nov 2016.
+\newblock \doi{10.1051/0004-6361/201629235}.
 
 \bibitem[{Cassan} et~al.(2012){Cassan}, {Kubas}, {Beaulieu}, {Dominik},
   {Horne}, {Greenhill}, {Wambsganss}, {Menzies}, {Williams}, {J{\o}rgensen},
@@ -50,6 +169,18 @@ A.~{Cassan}, D.~{Kubas}, J.-P. {Beaulieu}, M.~{Dominik}, K.~{Horne},
 \newblock \emph{Nature}, 481:\penalty0 167--169, jan 2012.
 \newblock \doi{10.1038/nature10684}.
 
+\bibitem[{Chadima} et~al.(2011){Chadima}, {Harmanec}, {Bennett}, {Kloppenborg},
+  {Stencel}, {Yang}, {Bo{\v z}i{\'c}}, {{\v S}lechta}, {Kotkov{\'a}}, {Wolf},
+  {{\v S}koda}, {Votruba}, {Hopkins}, {Buil}, and {Sudar}]{2011A&A...530A.146C}
+P.~{Chadima}, P.~{Harmanec}, P.~D. {Bennett}, B.~{Kloppenborg}, R.~{Stencel},
+  S.~{Yang}, H.~{Bo{\v z}i{\'c}}, M.~{{\v S}lechta}, L.~{Kotkov{\'a}},
+  M.~{Wolf}, P.~{{\v S}koda}, V.~{Votruba}, J.~L. {Hopkins}, C.~{Buil}, and
+  D.~{Sudar}.
+\newblock {Spectral and photometric analysis of the eclipsing binary
+  {$\epsilon$} Aurigae prior to and during the 2009-2011 eclipse}.
+\newblock \emph{A\&A}, 530:\penalty0 A146, jun 2011.
+\newblock \doi{10.1051/0004-6361/201116739}.
+
 \bibitem[{Charnoz} et~al.(2009{\natexlab{a}}){Charnoz}, {Dones}, {Esposito},
   {Estrada}, and {Hedman}]{2009sfch.book..537C}
 S.~{Charnoz}, L.~{Dones}, L.~W. {Esposito}, P.~R. {Estrada}, and M.~M.
@@ -65,12 +196,51 @@ S.~{Charnoz}, A.~{Morbidelli}, L.~{Dones}, and J.~{Salmon}.
 \newblock \emph{ICARUS}, 199:\penalty0 413--428, feb 2009{\natexlab{b}}.
 \newblock \doi{10.1016/j.icarus.2008.10.019}.
 
+\bibitem[{Choi} et~al.(2016){Choi}, {Dotter}, {Conroy}, {Cantiello}, {Paxton},
+  and {Johnson}]{2016ApJ...823..102C}
+J.~{Choi}, A.~{Dotter}, C.~{Conroy}, M.~{Cantiello}, B.~{Paxton}, and B.~D.
+  {Johnson}.
+\newblock {Mesa Isochrones and Stellar Tracks (MIST). I. Solar-scaled Models}.
+\newblock \emph{ApJ}, 823:\penalty0 102, jun 2016.
+\newblock \doi{10.3847/0004-637X/823/2/102}.
+
+\bibitem[{Collier Cameron} et~al.(2007){Collier Cameron}, {Wilson}, {West},
+  {Hebb}, {Wang}, {Aigrain}, {Bouchy}, {Christian}, {Clarkson}, {Enoch},
+  {Esposito}, {Guenther}, {Haswell}, {H{\'e}brard}, {Hellier}, {Horne},
+  {Irwin}, {Kane}, {Loeillet}, {Lister}, {Maxted}, {Mayor}, {Moutou}, {Parley},
+  {Pollacco}, {Pont}, {Queloz}, {Ryans}, {Skillen}, {Street}, {Udry}, and
+  {Wheatley}]{2007MNRAS.380.1230C}
+A.~{Collier Cameron}, D.~M. {Wilson}, R.~G. {West}, L.~{Hebb}, X.-B. {Wang},
+  S.~{Aigrain}, F.~{Bouchy}, D.~J. {Christian}, W.~I. {Clarkson}, B.~{Enoch},
+  M.~{Esposito}, E.~{Guenther}, C.~A. {Haswell}, G.~{H{\'e}brard},
+  C.~{Hellier}, K.~{Horne}, J.~{Irwin}, S.~R. {Kane}, B.~{Loeillet}, T.~A.
+  {Lister}, P.~{Maxted}, M.~{Mayor}, C.~{Moutou}, N.~{Parley}, D.~{Pollacco},
+  F.~{Pont}, D.~{Queloz}, R.~{Ryans}, I.~{Skillen}, R.~A. {Street}, S.~{Udry},
+  and P.~J. {Wheatley}.
+\newblock {Efficient identification of exoplanetary transit candidates from
+  SuperWASP light curves}.
+\newblock \emph{MNRAS}, 380:\penalty0 1230--1244, sep 2007.
+\newblock \doi{10.1111/j.1365-2966.2007.12195.x}.
+
 \bibitem[{Colwell}(1994)]{1994P&SS...42.1139C}
 J.~E. {Colwell}.
 \newblock {The disruption of planetary satellites and the creation of planetary
   rings}.
 \newblock \emph{Planet. Space Sci.}, 42:\penalty0 1139--1149, dec 1994.
 \newblock \doi{10.1016/0032-0633(94)90013-2}.
+
+\bibitem[{Crida} and {Charnoz}(2012)]{2012Sci...338.1196C}
+A.~{Crida} and S.~{Charnoz}.
+\newblock {Formation of Regular Satellites from Ancient Massive Rings in the
+  Solar System}.
+\newblock \emph{Science}, 338:\penalty0 1196, nov 2012.
+\newblock \doi{10.1126/science.1226477}.
+
+\bibitem[{Cropper} and {Katz}(2010)]{2010EAS....45..181C}
+M.~{Cropper} and D.~{Katz}.
+\newblock {The Gaia spectroscopic instrument (RVS): a technical challenge}.
+\newblock 45:\penalty0 181--188, Jan 2010.
+\newblock \doi{10.1051/eas/1045031}.
 
 \bibitem[{Cumming} et~al.(2008){Cumming}, {Butler}, {Marcy}, {Vogt}, {Wright},
   and {Fischer}]{2008PASP..120..531C}
@@ -81,15 +251,151 @@ A.~{Cumming}, R.~P. {Butler}, G.~W. {Marcy}, S.~S. {Vogt}, J.~T. {Wright}, and
 \newblock \emph{PASP}, 120:\penalty0 531, may 2008.
 \newblock \doi{10.1086/588487}.
 
-\bibitem[{Gaia Collaboration} et~al.(2016){Gaia Collaboration}, {Prusti}, {de
-  Bruijne}, {Brown}, {Vallenari}, {Babusiaux}, {Bailer-Jones}, {Bastian},
-  {Biermann}, {Evans}, and et~al.]{2016A&A...595A...1G}
+\bibitem[{de Geus} et~al.(1989){de Geus}, {de Zeeuw}, and
+  {Lub}]{1989A&A...216...44D}
+E.~J. {de Geus}, P.~T. {de Zeeuw}, and J.~{Lub}.
+\newblock {Physical parameters of stars in the Scorpio-Centaurus OB
+  association}.
+\newblock \emph{A\&A}, 216:\penalty0 44--61, jun 1989.
+
+\bibitem[{de Zeeuw} et~al.(1999){de Zeeuw}, {Hoogerwerf}, {de Bruijne},
+  {Brown}, and {Blaauw}]{1999AJ....117..354D}
+P.~T. {de Zeeuw}, R.~{Hoogerwerf}, J.~H.~J. {de Bruijne}, A.~G.~A. {Brown}, and
+  A.~{Blaauw}.
+\newblock {A HIPPARCOS Census of the Nearby OB Associations}.
+\newblock \emph{AJ}, 117:\penalty0 354--399, jan 1999.
+\newblock \doi{10.1086/300682}.
+
+\bibitem[{Dotter}(2016)]{2016ApJS..222....8D}
+A.~{Dotter}.
+\newblock {MESA Isochrones and Stellar Tracks (MIST) 0: Methods for the
+  Construction of Stellar Isochrones}.
+\newblock \emph{ApJS}, 222:\penalty0 8, jan 2016.
+\newblock \doi{10.3847/0067-0049/222/1/8}.
+
+\bibitem[{Evans} et~al.(2017){Evans}, {Riello}, {De Angeli}, {Busso}, {van
+  Leeuwen}, {Jordi}, {Fabricius}, {Brown}, {Carrasco}, {Voss}, {Weiler},
+  {Montegriffo}, {Cacciari}, {Burgess}, and {Osborne}]{2017A&A...600A..51E}
+D.~W. {Evans}, M.~{Riello}, F.~{De Angeli}, G.~{Busso}, F.~{van Leeuwen},
+  C.~{Jordi}, C.~{Fabricius}, A.~G.~A. {Brown}, J.~M. {Carrasco}, H.~{Voss},
+  M.~{Weiler}, P.~{Montegriffo}, C.~{Cacciari}, P.~{Burgess}, and P.~{Osborne}.
+\newblock {Gaia Data Release 1. Validation of the photometry}.
+\newblock \emph{A\&A}, 600:\penalty0 A51, apr 2017.
+\newblock \doi{10.1051/0004-6361/201629241}.
+
+\bibitem[{Eyer} et~al.(2017){Eyer}, {Mowlavi}, {Evans}, {Nienartowicz},
+  {Ordonez}, {Holl}, {Lecoeur-Taibi}, {Riello}, {Clementini}, {Cuypers}, {De
+  Ridder}, {Lanzafame}, {Sarro}, {Charnas}, {Guy}, {Jevardat de Fombelle},
+  {Rimoldini}, {S{\"u}veges}, {Mignard}, {Busso}, {De Angeli}, {van Leeuwen},
+  {Dubath}, {Beck}, {Aguado}, {Debosscher}, {Distefano}, {Fuchs}, {Koubsky},
+  {Lebzelter}, {Leccia}, {Lopez}, {Moitinho}, {Regibo}, {Ripepi}, {Roelens},
+  {Szabados}, {Tingley}, {Votruba}, {Zucker}, {Aerts}, {Barblan},
+  {Blanco-Cuaresma}, {Grenon}, {Jan}, {Lorenz}, {Miranda}, {Morgenthaler},
+  {Ordenovic}, {Palaversa}, {Prsa}, {Ruiz-Fuertes}, {Anderson}, {Delgado},
+  {Dzigan}, {Hudec}, {Jonckheere}, {Klagyivik}, {Kutka}, {Moniez}, {Nicoletti},
+  {Park}, {Van Hemelryck}, {Varadi}, {Kochoska}, {Lanza}, {Marconi},
+  {Marschalko}, {Messina}, {Musella}, {Pagano}, {Sadowski}, and
+  {Schultheis}]{2017arXiv170203295E}
+L.~{Eyer}, N.~{Mowlavi}, D.~W. {Evans}, K.~{Nienartowicz}, D.~{Ordonez},
+  B.~{Holl}, I.~{Lecoeur-Taibi}, M.~{Riello}, G.~{Clementini}, J.~{Cuypers},
+  J.~{De Ridder}, A.~C. {Lanzafame}, L.~M. {Sarro}, J.~{Charnas}, L.~P. {Guy},
+  G.~{Jevardat de Fombelle}, L.~{Rimoldini}, M.~{S{\"u}veges}, F.~{Mignard},
+  G.~{Busso}, F.~{De Angeli}, F.~{van Leeuwen}, P.~{Dubath}, M.~{Beck}, J.~J.
+  {Aguado}, J.~{Debosscher}, E.~{Distefano}, J.~{Fuchs}, P.~{Koubsky},
+  T.~{Lebzelter}, S.~{Leccia}, M.~{Lopez}, A.~{Moitinho}, S.~{Regibo},
+  V.~{Ripepi}, M.~{Roelens}, L.~{Szabados}, B.~{Tingley}, V.~{Votruba},
+  S.~{Zucker}, C.~{Aerts}, F.~{Barblan}, S.~{Blanco-Cuaresma}, M.~{Grenon},
+  A.~{Jan}, D.~{Lorenz}, B.~{Miranda}, S.~{Morgenthaler}, C.~{Ordenovic},
+  L.~{Palaversa}, A.~{Prsa}, M.~I. {Ruiz-Fuertes}, R.~I. {Anderson}, H.~E.
+  {Delgado}, Y.~{Dzigan}, R.~{Hudec}, A.~{Jonckheere}, P.~{Klagyivik},
+  A.~{Kutka}, M.~{Moniez}, J.-M. {Nicoletti}, P.~{Park}, E.~{Van Hemelryck},
+  M.~{Varadi}, A.~{Kochoska}, A.~F. {Lanza}, M.~{Marconi}, G.~{Marschalko},
+  S.~{Messina}, I.~{Musella}, I.~{Pagano}, G.~{Sadowski}, and M.~{Schultheis}.
+\newblock {Gaia Data Release 1: The variability processing \& analysis and its
+  application to the south ecliptic pole region}.
+\newblock \emph{ArXiv e-prints}, feb 2017.
+
+\bibitem[{Gaia Collaboration} et~al.(2016{\natexlab{a}}){Gaia Collaboration},
+  {Brown}, {Vallenari}, {Prusti}, {de Bruijne}, {Mignard}, {Drimmel},
+  {Babusiaux}, {Bailer-Jones}, {Bastian}, and et~al.]{2016A&A...595A...2G}
+{Gaia Collaboration}, A.~G.~A. {Brown}, A.~{Vallenari}, T.~{Prusti}, J.~H.~J.
+  {de Bruijne}, F.~{Mignard}, R.~{Drimmel}, C.~{Babusiaux}, C.~A.~L.
+  {Bailer-Jones}, U.~{Bastian}, and et~al.
+\newblock {Gaia Data Release 1. Summary of the astrometric, photometric, and
+  survey properties}.
+\newblock \emph{A\&A}, 595:\penalty0 A2, nov 2016{\natexlab{a}}.
+\newblock \doi{10.1051/0004-6361/201629512}.
+
+\bibitem[{Gaia Collaboration} et~al.(2016{\natexlab{b}}){Gaia Collaboration},
+  {Prusti}, {de Bruijne}, {Brown}, {Vallenari}, {Babusiaux}, {Bailer-Jones},
+  {Bastian}, {Biermann}, {Evans}, and et~al.]{2016A&A...595A...1G}
 {Gaia Collaboration}, T.~{Prusti}, J.~H.~J. {de Bruijne}, A.~G.~A. {Brown},
   A.~{Vallenari}, C.~{Babusiaux}, C.~A.~L. {Bailer-Jones}, U.~{Bastian},
   M.~{Biermann}, D.~W. {Evans}, and et~al.
 \newblock {The Gaia mission}.
-\newblock \emph{A\&A}, 595:\penalty0 A1, nov 2016.
+\newblock \emph{A\&A}, 595:\penalty0 A1, nov 2016{\natexlab{b}}.
 \newblock \doi{10.1051/0004-6361/201629272}.
+
+\bibitem[{Gaia Collaboration} et~al.(2017){Gaia Collaboration}, {van Leeuwen},
+  {Vallenari}, {Jordi}, {Lindegren}, {Bastian}, {Prusti}, {de Bruijne},
+  {Brown}, {Babusiaux}, and et~al.]{vanLeeuwen17}
+{Gaia Collaboration}, F.~{van Leeuwen}, A.~{Vallenari}, C.~{Jordi},
+  L.~{Lindegren}, U.~{Bastian}, T.~{Prusti}, J.~H.~J. {de Bruijne}, A.~G.~A.
+  {Brown}, C.~{Babusiaux}, and et~al.
+\newblock {Gaia Data Release 1. Open cluster astrometry: performance,
+  limitations, and future prospects}, may 2017.
+
+\bibitem[{Gaia Collaboration} et~al.(2018){Gaia Collaboration}, {Brown},
+  {Vallenari}, {Prusti}, {de Bruijne}, {Babusiaux}, and
+  {Bailer-Jones}]{2018arXiv180409365G}
+{Gaia Collaboration}, A.~G.~A. {Brown}, A.~{Vallenari}, T.~{Prusti}, J.~H.~J.
+  {de Bruijne}, C.~{Babusiaux}, and C.~A.~L. {Bailer-Jones}.
+\newblock {Gaia Data Release 2. Summary of the contents and survey properties}.
+\newblock \emph{ArXiv e-prints}, apr 2018.
+
+\bibitem[{Ga{\l}an} et~al.(2010){Ga{\l}an}, {Miko{\l}ajewski}, {Tomov},
+  {{\'S}wiercy{\'n}ski}, {Wicecek}, {Bro{\.z}ek}, {Maciejewski}, {Wychudzki},
+  {Hajduk}, {R{\'o}{\.z}a{\'n}ski}, {Ragan}, {Budzisz}, {Dobierski},
+  {Frackowiak}, {Kurpi{\'n}ska-Winiarska}, {Winiarski}, {Zo{\l}a}, {Og{\l}oza},
+  {Ku{\'z}micz}, {Dr{\'o}{\.z}d{\.z}}, {Kuligowska}, {Krzesi{\'n}ski},
+  {Szyma{\'n}ski}, {Siwak}, {Kundera}, {Staels}, {Hopkins}, {Pye}, {Elder},
+  {Myers}, {Dimitrov}, {Popov}, {Semkov}, {Peneva}, {Kolev}, {Iliev},
+  {Barzova}, {Stateva}, {Tomov}, {Dvorak}, {Miller}, {Br{\'a}t}, {Niarchos},
+  {Liakos}, {Gazeas}, {Pigulski}, {Kopacki}, {Narwid}, {Majewska},
+  {Ste{\'s}licki}, {Niemczura}, {{\"O}{\u g}men}, {Oksanen}, {Ku{\v
+  c}{\'a}kov{\'a}}, {Lister}, {Heras}, {Dapergolas}, {Bellas-Velidis},
+  {Koci{\'a}n}, and {Majcher}]{2010ASPC..435..423G}
+C.~{Ga{\l}an}, M.~{Miko{\l}ajewski}, T.~{Tomov}, E.~{{\'S}wiercy{\'n}ski},
+  M.~{Wicecek}, T.~{Bro{\.z}ek}, G.~{Maciejewski}, P.~{Wychudzki}, M.~{Hajduk},
+  P.~{R{\'o}{\.z}a{\'n}ski}, E.~{Ragan}, B.~{Budzisz}, P.~{Dobierski},
+  S.~{Frackowiak}, M.~{Kurpi{\'n}ska-Winiarska}, M.~{Winiarski}, S.~{Zo{\l}a},
+  W.~{Og{\l}oza}, A.~{Ku{\'z}micz}, M.~{Dr{\'o}{\.z}d{\.z}}, E.~{Kuligowska},
+  J.~{Krzesi{\'n}ski}, T.~{Szyma{\'n}ski}, M.~{Siwak}, T.~{Kundera},
+  B.~{Staels}, J.~{Hopkins}, J.~{Pye}, L.~{Elder}, G.~{Myers}, D.~{Dimitrov},
+  V.~{Popov}, E.~{Semkov}, S.~{Peneva}, D.~{Kolev}, I.~{Iliev}, I.~{Barzova},
+  I.~{Stateva}, N.~{Tomov}, S.~{Dvorak}, I.~{Miller}, L.~{Br{\'a}t},
+  P.~{Niarchos}, A.~{Liakos}, K.~{Gazeas}, A.~{Pigulski}, G.~{Kopacki},
+  A.~{Narwid}, A.~{Majewska}, M.~{Ste{\'s}licki}, E.~{Niemczura}, Y.~{{\"O}{\u
+  g}men}, A.~{Oksanen}, H.~{Ku{\v c}{\'a}kov{\'a}}, T.~{Lister}, T.~{Heras},
+  A.~{Dapergolas}, I.~{Bellas-Velidis}, R.~{Koci{\'a}n}, and A.~{Majcher}.
+\newblock {Multi-Ring Structure of the Eclipsing Disk in EE Cep - Possible
+  Planets?}
+\newblock \emph{ASPCS}, 435:\penalty0 423, dec 2010.
+
+\bibitem[{Graczyk} et~al.(2003){Graczyk}, {Miko{\l}ajewski}, {Tomov}, {Kolev},
+  and {Iliev}]{2003A&A...403.1089G}
+D.~{Graczyk}, M.~{Miko{\l}ajewski}, T.~{Tomov}, D.~{Kolev}, and I.~{Iliev}.
+\newblock {The 2003 eclipse of EE Cep is coming. A review of past eclipses}.
+\newblock \emph{AAP}, 403:\penalty0 1089--1094, jun 2003.
+\newblock \doi{10.1051/0004-6361:20030430}.
+
+\bibitem[{Guinan} and {Dewarf}(2002)]{2002ASPC..279..121G}
+E.~F. {Guinan} and L.~E. {Dewarf}.
+\newblock {Toward Solving the Mysteries of the Exotic Eclipsing Binary
+  {$\epsilon$} Aurigae: Two Thousand years of Observations and Future
+  Possibilities}.
+\newblock \emph{Exotic Stars as Challenges to Evolution}, 279:\penalty0 121,
+  2002.
 
 \bibitem[{Harris}(1984)]{1984prin.conf..641H}
 A.~W. {Harris}.
@@ -97,11 +403,61 @@ A.~W. {Harris}.
 \newblock In R.~{Greenberg} and A.~{Brahic}, editors, \emph{IAU Colloq. 75:
   Planetary Rings}, pages 641--659, 1984.
 
+\bibitem[{Hunter}(2007)]{2007CSE.....9...90H}
+J.~D. {Hunter}.
+\newblock {Matplotlib: A 2D Graphics Environment}.
+\newblock \emph{Computing in Science and Engineering}, 9:\penalty0 90--95, may
+  2007.
+\newblock \doi{10.1109/MCSE.2007.55}.
+
 \bibitem[Jiang et~al.(2007)Jiang, Yeh, Chang, and Hung]{1538-3881-134-5-2061}
 {Ing-Guey} Jiang, {Li-Chin} Yeh, {Yen-Chang} Chang, and {Wen-Liang} Hung.
 \newblock {On the Mass-Period Distributions and Correlations of Extrasolar
   Planets}.
 \newblock \emph{ApJ}, 134\penalty0 (5):\penalty0 2061, 2007.
+
+\bibitem[{Jordi} et~al.(2010){Jordi}, {Gebran}, {Carrasco}, {de Bruijne},
+  {Voss}, {Fabricius}, {Knude}, {Vallenari}, {Kohley}, and
+  {Mora}]{2010A&A...523A..48J}
+C.~{Jordi}, M.~{Gebran}, J.~M. {Carrasco}, J.~{de Bruijne}, H.~{Voss},
+  C.~{Fabricius}, J.~{Knude}, A.~{Vallenari}, R.~{Kohley}, and A.~{Mora}.
+\newblock {Gaia broad band photometry}.
+\newblock \emph{A\&A}, 523:\penalty0 A48, nov 2010.
+\newblock \doi{10.1051/0004-6361/201015441}.
+
+\bibitem[{Kane} et~al.(2005){Kane}, {Collier Cameron}, {Horne}, {James},
+  {Lister}, {Pollacco}, {Street}, and {Tsapras}]{2005MNRAS.364.1091K}
+S.~R. {Kane}, A.~{Collier Cameron}, K.~{Horne}, D.~{James}, T.~A. {Lister},
+  D.~L. {Pollacco}, R.~A. {Street}, and Y.~{Tsapras}.
+\newblock {Results from the Wide Angle Search for Planets Prototype (WASP0) -
+  III. Planet hunting in the Draco field}.
+\newblock \emph{MNRAS}, 364:\penalty0 1091--1103, dec 2005.
+\newblock \doi{10.1111/j.1365-2966.2005.09656.x}.
+
+\bibitem[{Kenworthy} et~al.(2015){Kenworthy}, {Lacour}, {Kraus}, {Triaud},
+  {Mamajek}, {Scott}, {S{\'e}gransan}, {Ireland}, {Hambsch}, {Reichart},
+  {Haislip}, {LaCluyze}, {Moore}, and {Frank}]{2015MNRAS.446..411K}
+M.~A. {Kenworthy}, S.~{Lacour}, A.~{Kraus}, A.~H.~M.~J. {Triaud}, E.~E.
+  {Mamajek}, E.~L. {Scott}, D.~{S{\'e}gransan}, M.~{Ireland}, F.-J. {Hambsch},
+  D.~E. {Reichart}, J.~B. {Haislip}, A.~P. {LaCluyze}, J.~P. {Moore}, and N.~R.
+  {Frank}.
+\newblock {Mass and period limits on the ringed companion transiting the young
+  star J1407}.
+\newblock \emph{MNRAS}, 446:\penalty0 411--427, jan 2015.
+\newblock \doi{10.1093/mnras/stu2067}.
+
+\bibitem[{Kloppenborg} et~al.(2010){Kloppenborg}, {Stencel}, {Monnier},
+  {Schaefer}, {Zhao}, {Baron}, {McAlister}, {ten Brummelaar}, {Che},
+  {Farrington}, {Pedretti}, {Sallave-Goldfinger}, {Sturmann}, {Sturmann},
+  {Thureau}, {Turner}, and {Carroll}]{2010Natur.464..870K}
+B.~{Kloppenborg}, R.~{Stencel}, J.~D. {Monnier}, G.~{Schaefer}, M.~{Zhao},
+  F.~{Baron}, H.~{McAlister}, T.~{ten Brummelaar}, X.~{Che}, C.~{Farrington},
+  E.~{Pedretti}, P.~J. {Sallave-Goldfinger}, J.~{Sturmann}, L.~{Sturmann},
+  N.~{Thureau}, N.~{Turner}, and S.~M. {Carroll}.
+\newblock {Infrared images of the transiting disk in the {$\epsilon$} Aurigae
+  system}.
+\newblock \emph{Nature}, 464:\penalty0 870--872, apr 2010.
+\newblock \doi{10.1038/nature08968}.
 
 \bibitem[{Kroupa}(2001)]{2001MNRAS.322..231K}
 P.~{Kroupa}.
@@ -109,12 +465,124 @@ P.~{Kroupa}.
 \newblock \emph{MNRAS}, 322:\penalty0 231--246, apr 2001.
 \newblock \doi{10.1046/j.1365-8711.2001.04022.x}.
 
+\bibitem[{Lindegren} et~al.(2016){Lindegren}, {Lammers}, {Bastian},
+  {Hern{\'a}ndez}, {Klioner}, {Hobbs}, {Bombrun}, {Michalik}, {Ramos-Lerate},
+  {Butkevich}, {Comoretto}, {Joliet}, {Holl}, {Hutton}, {Parsons},
+  {Steidelm{\"u}ller}, {Abbas}, {Altmann}, {Andrei}, {Anton}, {Bach},
+  {Barache}, {Becciani}, {Berthier}, {Bianchi}, {Biermann}, {Bouquillon},
+  {Bourda}, {Br{\"u}semeister}, {Bucciarelli}, {Busonero}, {Carlucci},
+  {Casta{\~n}eda}, {Charlot}, {Clotet}, {Crosta}, {Davidson}, {de Felice},
+  {Drimmel}, {Fabricius}, {Fienga}, {Figueras}, {Fraile}, {Gai}, {Garralda},
+  {Geyer}, {Gonz{\'a}lez-Vidal}, {Guerra}, {Hambly}, {Hauser}, {Jordan},
+  {Lattanzi}, {Lenhardt}, {Liao}, {L{\"o}ffler}, {McMillan}, {Mignard}, {Mora},
+  {Morbidelli}, {Portell}, {Riva}, {Sarasso}, {Serraller}, {Siddiqui}, {Smart},
+  {Spagna}, {Stampa}, {Steele}, {Taris}, {Torra}, {van Reeven}, {Vecchiato},
+  {Zschocke}, {de Bruijne}, {Gracia}, {Raison}, {Lister}, {Marchant},
+  {Messineo}, {Soffel}, {Osorio}, {de Torres}, and
+  {O'Mullane}]{2016A&A...595A...4L}
+L.~{Lindegren}, U.~{Lammers}, U.~{Bastian}, J.~{Hern{\'a}ndez}, S.~{Klioner},
+  D.~{Hobbs}, A.~{Bombrun}, D.~{Michalik}, M.~{Ramos-Lerate}, A.~{Butkevich},
+  G.~{Comoretto}, E.~{Joliet}, B.~{Holl}, A.~{Hutton}, P.~{Parsons},
+  H.~{Steidelm{\"u}ller}, U.~{Abbas}, M.~{Altmann}, A.~{Andrei}, S.~{Anton},
+  N.~{Bach}, C.~{Barache}, U.~{Becciani}, J.~{Berthier}, L.~{Bianchi},
+  M.~{Biermann}, S.~{Bouquillon}, G.~{Bourda}, T.~{Br{\"u}semeister},
+  B.~{Bucciarelli}, D.~{Busonero}, T.~{Carlucci}, J.~{Casta{\~n}eda},
+  P.~{Charlot}, M.~{Clotet}, M.~{Crosta}, M.~{Davidson}, F.~{de Felice},
+  R.~{Drimmel}, C.~{Fabricius}, A.~{Fienga}, F.~{Figueras}, E.~{Fraile},
+  M.~{Gai}, N.~{Garralda}, R.~{Geyer}, J.~J. {Gonz{\'a}lez-Vidal}, R.~{Guerra},
+  N.~C. {Hambly}, M.~{Hauser}, S.~{Jordan}, M.~G. {Lattanzi}, H.~{Lenhardt},
+  S.~{Liao}, W.~{L{\"o}ffler}, P.~J. {McMillan}, F.~{Mignard}, A.~{Mora},
+  R.~{Morbidelli}, J.~{Portell}, A.~{Riva}, M.~{Sarasso}, I.~{Serraller},
+  H.~{Siddiqui}, R.~{Smart}, A.~{Spagna}, U.~{Stampa}, I.~{Steele}, F.~{Taris},
+  J.~{Torra}, W.~{van Reeven}, A.~{Vecchiato}, S.~{Zschocke}, J.~{de Bruijne},
+  G.~{Gracia}, F.~{Raison}, T.~{Lister}, J.~{Marchant}, R.~{Messineo},
+  M.~{Soffel}, J.~{Osorio}, A.~{de Torres}, and W.~{O'Mullane}.
+\newblock {Gaia Data Release 1. Astrometry: one billion positions, two million
+  proper motions and parallaxes}.
+\newblock \emph{A\&A}, 595:\penalty0 A4, nov 2016.
+\newblock \doi{10.1051/0004-6361/201628714}.
+
+\bibitem[{Lindegren} et~al.(2018){Lindegren}, {Hernandez}, {Bombrun},
+  {Klioner}, {Bastian}, {Ramos-Lerate}, {de Torres}, {Steidelmuller},
+  {Stephenson}, {Hobbs}, {Lammers}, {Biermann}, {Geyer}, {Hilger}, {Michalik},
+  {Stampa}, {McMillan}, {Castaneda}, {Clotet}, {Comoretto}, {Davidson},
+  {Fabricius}, {Gracia}, {Hambly}, {Hutton}, {Mora}, {Portell}, {van Leeuwen},
+  {Abbas}, {Abreu}, {Altmann}, {Andrei}, {Anglada}, {Balaguer-Nunez},
+  {Barache}, {Becciani}, {Bertone}, {Bianchi}, {Bouquillon}, {Bourda},
+  {Brusemeister}, {Bucciarelli}, {Busonero}, {Buzzi}, {Cancelliere},
+  {Carlucci}, {Charlot}, {Cheek}, {Crosta}, {Crowley}, {de Bruijne}, {de
+  Felice}, {Drimmel}, {Esquej}, {Fienga}, {Fraile}, {Gai}, {Garralda},
+  {Gonzalez-Vidal}, {Guerra}, {Hauser}, {Hofmann}, {Holl}, {Jordan},
+  {Lattanzi}, {Lenhardt}, {Liao}, {Licata}, {Lister}, {Loffler}, {Marchant},
+  {Martin-Fleitas}, {Messineo}, {Mignard}, {Morbidelli}, {Poggio}, {Riva},
+  {Rowell}, {Salguero}, {Sarasso}, {Sciacca}, {Siddiqui}, {Smart}, {Spagna},
+  {Steele}, {Taris}, {Torra}, {van Elteren}, {van Reeven}, and
+  {Vecchiato}]{2018arXiv180409366L}
+L.~{Lindegren}, J.~{Hernandez}, A.~{Bombrun}, S.~{Klioner}, U.~{Bastian},
+  M.~{Ramos-Lerate}, A.~{de Torres}, H.~{Steidelmuller}, C.~{Stephenson},
+  D.~{Hobbs}, U.~{Lammers}, M.~{Biermann}, R.~{Geyer}, T.~{Hilger},
+  D.~{Michalik}, U.~{Stampa}, P.~J. {McMillan}, J.~{Castaneda}, M.~{Clotet},
+  G.~{Comoretto}, M.~{Davidson}, C.~{Fabricius}, G.~{Gracia}, N.~C. {Hambly},
+  A.~{Hutton}, A.~{Mora}, J.~{Portell}, F.~{van Leeuwen}, U.~{Abbas},
+  A.~{Abreu}, M.~{Altmann}, A.~{Andrei}, E.~{Anglada}, L.~{Balaguer-Nunez},
+  C.~{Barache}, U.~{Becciani}, S.~{Bertone}, L.~{Bianchi}, S.~{Bouquillon},
+  G.~{Bourda}, T.~{Brusemeister}, B.~{Bucciarelli}, D.~{Busonero}, R.~{Buzzi},
+  R.~{Cancelliere}, T.~{Carlucci}, P.~{Charlot}, N.~{Cheek}, M.~{Crosta},
+  C.~{Crowley}, J.~{de Bruijne}, F.~{de Felice}, R.~{Drimmel}, P.~{Esquej},
+  A.~{Fienga}, E.~{Fraile}, M.~{Gai}, N.~{Garralda}, J.~J. {Gonzalez-Vidal},
+  R.~{Guerra}, M.~{Hauser}, W.~{Hofmann}, B.~{Holl}, S.~{Jordan}, M.~G.
+  {Lattanzi}, H.~{Lenhardt}, S.~{Liao}, E.~{Licata}, T.~{Lister}, W.~{Loffler},
+  J.~{Marchant}, J.-M. {Martin-Fleitas}, R.~{Messineo}, F.~{Mignard},
+  R.~{Morbidelli}, E.~{Poggio}, A.~{Riva}, N.~{Rowell}, E.~{Salguero},
+  M.~{Sarasso}, E.~{Sciacca}, H.~{Siddiqui}, R.~L. {Smart}, A.~{Spagna},
+  I.~{Steele}, F.~{Taris}, J.~{Torra}, A.~{van Elteren}, W.~{van Reeven}, and
+  A.~{Vecchiato}.
+\newblock {Gaia Data Release 2: The astrometric solution}.
+\newblock \emph{ArXiv e-prints}, apr 2018.
+
 \bibitem[{Magnussen}(2004)]{2004CMS...46.397M}
 S.~{Magnussen}.
 \newblock {An algorithm for generating positively correlated Beta-distributed
   random variables with known marginal distributions and a specified
   correlation}.
 \newblock \emph{CMStatistics}, 46(2):\penalty0 397--406, feb 2004.
+
+\bibitem[{Mamajek}(2016)]{Mamajek2016}
+E.~{Mamajek}.
+\newblock {Mamajek 18: An Over-Density in Sco-Cen at D = 175 pc}.
+\newblock 9 2016.
+\newblock \doi{10.6084/m9.figshare.3829947.v2}.
+
+\bibitem[{Mamajek} and {Hillenbrand}(2008)]{2008ApJ...687.1264M}
+E.~E. {Mamajek} and L.~A. {Hillenbrand}.
+\newblock {Improved Age Estimation for Solar-Type Dwarfs Using
+  Activity-Rotation Diagnostics}.
+\newblock \emph{ApJ}, 687:\penalty0 1264--1293, nov 2008.
+\newblock \doi{10.1086/591785}.
+
+\bibitem[{Mamajek} et~al.(2012){Mamajek}, {Quillen}, {Pecaut}, {Moolekamp},
+  {Scott}, {Kenworthy}, {Collier Cameron}, and {Parley}]{2012AJ....143...72M}
+E.~E. {Mamajek}, A.~C. {Quillen}, M.~J. {Pecaut}, F.~{Moolekamp}, E.~L.
+  {Scott}, M.~A. {Kenworthy}, A.~{Collier Cameron}, and N.~R. {Parley}.
+\newblock {Planetary Construction Zones in Occultation: Discovery of an
+  Extrasolar Ring System Transiting a Young Sun-like Star and Future Prospects
+  for Detecting Eclipses by Circumsecondary and Circumplanetary Disks}.
+\newblock \emph{ApJ}, 143:\penalty0 72, mar 2012.
+\newblock \doi{10.1088/0004-6256/143/3/72}.
+
+\bibitem[{Mikolajewski} and {Graczyk}(1999)]{Mikolajewski1999}
+M.~{Mikolajewski} and D.~{Graczyk}.
+\newblock {Is the eclipsing variable EE Cep a cousin of {$\epsilon$} Aur?}
+\newblock \emph{MNRAS}, 303\penalty0 (3):\penalty0 521--524, 1999.
+\newblock \doi{10.1046/j.1365-8711.1999.02257.x}.
+
+\bibitem[{Moolekamp} et~al.(2018){Moolekamp}, {Mamajek}, {James}, {Luhman},
+  {Pecaut}, {Metchev}, {Bell}, and {Denbo}]{2018arXiv180200878M}
+F.~E. {Moolekamp}, E.~E. {Mamajek}, D.~J. {James}, K.~L. {Luhman}, M.~J.
+  {Pecaut}, S.~A. {Metchev}, C.~P.~M. {Bell}, and S.~R. {Denbo}.
+\newblock {DECam Survey for Low-Mass Stars and Substellar Objects in the UCL
+  and LCC Subgroups of the Sco-Cen OB Association (SCOCENSUS)}.
+\newblock \emph{ArXiv e-prints}, feb 2018.
 
 \bibitem[{Nesvorn{\'y}} et~al.(2003){Nesvorn{\'y}}, {Alvarellos}, {Dones}, and
   {Levison}]{2003AJ....126..398N}
@@ -132,6 +600,27 @@ E.~L. {Nielsen}, L.~M. {Close}, B.~A. {Biller}, E.~{Masciadri}, and
   Large Separations}.
 \newblock 41:\penalty0 107--110, jan 2010.
 \newblock \doi{10.1051/eas/1041008}.
+
+\bibitem[{Norton} et~al.(2007){Norton}, {Wheatley}, {West}, {Haswell},
+  {Street}, {Collier Cameron}, {Christian}, {Clarkson}, {Enoch}, {Gallaway},
+  {Hellier}, {Horne}, {Irwin}, {Kane}, {Lister}, {Nicholas}, {Parley},
+  {Pollacco}, {Ryans}, {Skillen}, and {Wilson}]{2007A&A...467..785N}
+A.~J. {Norton}, P.~J. {Wheatley}, R.~G. {West}, C.~A. {Haswell}, R.~A.
+  {Street}, A.~{Collier Cameron}, D.~J. {Christian}, W.~I. {Clarkson},
+  B.~{Enoch}, M.~{Gallaway}, C.~{Hellier}, K.~{Horne}, J.~{Irwin}, S.~R.
+  {Kane}, T.~A. {Lister}, J.~P. {Nicholas}, N.~{Parley}, D.~{Pollacco},
+  R.~{Ryans}, I.~{Skillen}, and D.~M. {Wilson}.
+\newblock {New periodic variable stars coincident with ROSAT sources discovered
+  using SuperWASP}.
+\newblock \emph{A\&A}, 467:\penalty0 785--905, may 2007.
+\newblock \doi{10.1051/0004-6361:20077084}.
+
+\bibitem[{Ohta} et~al.(2009){Ohta}, {Taruya}, and {Suto}]{2009ApJ...690....1O}
+Y.~{Ohta}, A.~{Taruya}, and Y.~{Suto}.
+\newblock {Predicting Photometric and Spectroscopic Signatures of Rings Around
+  Transiting Extrasolar Planets}.
+\newblock \emph{ApJ}, 690:\penalty0 1--12, jan 2009.
+\newblock \doi{10.1088/0004-637X/690/1/1}.
 
 \bibitem[{Osborn} et~al.(2017){Osborn}, {Rodriguez}, {Kenworthy}, {Kennedy},
   {Mamajek}, {Robinson}, {Espaillat}, {Armstrong}, {Shappee}, {Bieryla},
@@ -151,6 +640,41 @@ H.~P. {Osborn}, J.~E. {Rodriguez}, M.~A. {Kenworthy}, G.~M. {Kennedy}, E.~E.
 \newblock \emph{MNRAS}, 471:\penalty0 740--749, oct 2017.
 \newblock \doi{10.1093/mnras/stx1249}.
 
+\bibitem[{Pecaut} and {Mamajek}(2016)]{2016MNRAS.461..794P}
+M.~J. {Pecaut} and E.~E. {Mamajek}.
+\newblock {The star formation history and accretion-disc fraction among the
+  K-type members of the Scorpius-Centaurus OB association}.
+\newblock \emph{MNRAS}, 461:\penalty0 794--815, sep 2016.
+
+\bibitem[{Perryman} et~al.(2014){Perryman}, {Hartman}, {Bakos}, and
+  {Lindegren}]{2014ApJ...797...14P}
+M.~{Perryman}, J.~{Hartman}, G.~{\'A}. {Bakos}, and L.~{Lindegren}.
+\newblock {Astrometric Exoplanet Detection with Gaia}.
+\newblock \emph{ApJ}, 797:\penalty0 14, dec 2014.
+\newblock \doi{10.1088/0004-637X/797/1/14}.
+
+\bibitem[{Pojmanski}(2002)]{2002AcA....52..397P}
+G.~{Pojmanski}.
+\newblock {The All Sky Automated Survey. Catalog of Variable Stars. I. 0 h - 6
+  hQuarter of the Southern Hemisphere}.
+\newblock \emph{ACTAA}, 52:\penalty0 397--427, dec 2002.
+
+\bibitem[{Pollacco} et~al.(2006){Pollacco}, {Skillen}, {Collier Cameron},
+  {Christian}, {Hellier}, {Irwin}, {Lister}, {Street}, {West}, {Anderson},
+  {Clarkson}, {Deeg}, {Enoch}, {Evans}, {Fitzsimmons}, {Haswell}, {Hodgkin},
+  {Horne}, {Kane}, {Keenan}, {Maxted}, {Norton}, {Osborne}, {Parley}, {Ryans},
+  {Smalley}, {Wheatley}, and {Wilson}]{2006PASP..118.1407P}
+D.~L. {Pollacco}, I.~{Skillen}, A.~{Collier Cameron}, D.~J. {Christian},
+  C.~{Hellier}, J.~{Irwin}, T.~A. {Lister}, R.~A. {Street}, R.~G. {West}, D.~R.
+  {Anderson}, W.~I. {Clarkson}, H.~{Deeg}, B.~{Enoch}, A.~{Evans},
+  A.~{Fitzsimmons}, C.~A. {Haswell}, S.~{Hodgkin}, K.~{Horne}, S.~R. {Kane},
+  F.~P. {Keenan}, P.~F.~L. {Maxted}, A.~J. {Norton}, J.~{Osborne}, N.~R.
+  {Parley}, R.~S.~I. {Ryans}, B.~{Smalley}, P.~J. {Wheatley}, and D.~M.
+  {Wilson}.
+\newblock {The WASP Project and the SuperWASP Cameras}.
+\newblock \emph{PASP}, 118:\penalty0 1407--1418, oct 2006.
+\newblock \doi{10.1086/508556}.
+
 \bibitem[{Quillen} and {Trilling}(1998)]{1998ApJ...508..707Q}
 A.~C. {Quillen} and D.~E. {Trilling}.
 \newblock {Do Proto-jovian Planets Drive Outflows?}
@@ -163,17 +687,225 @@ S.~{Rieder} and M.~A. {Kenworthy}.
 \newblock \emph{A\&A}, 596:\penalty0 A9, nov 2016.
 \newblock \doi{10.1051/0004-6361/201629567}.
 
+\bibitem[{Rizzuto} et~al.(2012){Rizzuto}, {Ireland}, and
+  {Robertson}]{2012yCat..74163108R}
+A.~C. {Rizzuto}, M.~J. {Ireland}, and J.~G. {Robertson}.
+\newblock {VizieR Online Data Catalog: Membership of Sco OB2 moving group
+  (Rizzuto+, 2011)}.
+\newblock \emph{VizieR Online Data Catalog}, 741, apr 2012.
+
+\bibitem[{Rizzuto} et~al.(2015){Rizzuto}, {Ireland}, and
+  {Robertson}]{2015yCat..74163108R}
+A.~C. {Rizzuto}, M.~J. {Ireland}, and J.~G. {Robertson}.
+\newblock {Characterizing the Young Sco-Cen Association}.
+\newblock \emph{Macquarie University PhD Thesis}, mar 2015.
+
 \bibitem[{Salpeter}(1955)]{1955ApJ...121..161S}
 E.~E. {Salpeter}.
 \newblock {The Luminosity Function and Stellar Evolution.}
 \newblock \emph{ApJ}, 121:\penalty0 161, jan 1955.
 \newblock \doi{10.1086/145971}.
 
+\bibitem[{Skrutskie} et~al.(2006{\natexlab{a}}){Skrutskie}, {Cutri},
+  {Stiening}, {Weinberg}, {Schneider}, {Carpenter}, {Beichman}, {Capps},
+  {Chester}, {Elias}, {Huchra}, {Liebert}, {Lonsdale}, {Monet}, {Price},
+  {Seitzer}, {Jarrett}, {Kirkpatrick}, {Gizis}, {Howard}, {Evans}, {Fowler},
+  {Fullmer}, {Hurt}, {Light}, {Kopan}, {Marsh}, {McCallon}, {Tam}, {Van Dyk},
+  and {Wheelock}]{2006AJ....131.1163S}
+M.~F. {Skrutskie}, R.~M. {Cutri}, R.~{Stiening}, M.~D. {Weinberg},
+  S.~{Schneider}, J.~M. {Carpenter}, C.~{Beichman}, R.~{Capps}, T.~{Chester},
+  J.~{Elias}, J.~{Huchra}, J.~{Liebert}, C.~{Lonsdale}, D.~G. {Monet},
+  S.~{Price}, P.~{Seitzer}, T.~{Jarrett}, J.~D. {Kirkpatrick}, J.~E. {Gizis},
+  E.~{Howard}, T.~{Evans}, J.~{Fowler}, L.~{Fullmer}, R.~{Hurt}, R.~{Light},
+  E.~L. {Kopan}, K.~A. {Marsh}, H.~L. {McCallon}, R.~{Tam}, S.~{Van Dyk}, and
+  S.~{Wheelock}.
+\newblock {The Two Micron All Sky Survey (2MASS)}.
+\newblock \emph{ApJ}, 131:\penalty0 1163--1183, feb 2006{\natexlab{a}}.
+\newblock \doi{10.1086/498708}.
+
+\bibitem[{Skrutskie} et~al.(2006{\natexlab{b}}){Skrutskie}, {Cutri},
+  {Stiening}, {Weinberg}, {Schneider}, {Carpenter}, {Beichman}, {Capps},
+  {Chester}, {Elias}, {Huchra}, {Liebert}, {Lonsdale}, {Monet}, {Price},
+  {Seitzer}, {Jarrett}, {Kirkpatrick}, {Gizis}, {Howard}, {Evans}, {Fowler},
+  {Fullmer}, {Hurt}, {Light}, {Kopan}, {Marsh}, {McCallon}, {Tam}, {Van Dyk},
+  and {Wheelock}]{Skrutskie06}
+M.~F. {Skrutskie}, R.~M. {Cutri}, R.~{Stiening}, M.~D. {Weinberg},
+  S.~{Schneider}, J.~M. {Carpenter}, C.~{Beichman}, R.~{Capps}, T.~{Chester},
+  J.~{Elias}, J.~{Huchra}, J.~{Liebert}, C.~{Lonsdale}, D.~G. {Monet},
+  S.~{Price}, P.~{Seitzer}, T.~{Jarrett}, J.~D. {Kirkpatrick}, J.~E. {Gizis},
+  E.~{Howard}, T.~{Evans}, J.~{Fowler}, L.~{Fullmer}, R.~{Hurt}, R.~{Light},
+  E.~L. {Kopan}, K.~A. {Marsh}, H.~L. {McCallon}, R.~{Tam}, S.~{Van Dyk}, and
+  S.~{Wheelock}.
+\newblock {The Two Micron All Sky Survey (2MASS)}.
+\newblock \emph{Astrophysical Journal}, 131:\penalty0 1163--1183, Feb
+  2006{\natexlab{b}}.
+\newblock \doi{10.1086/498708}.
+
+\bibitem[{Street} et~al.(2003){Street}, {Pollaco}, {Fitzsimmons}, {Keenan},
+  {Horne}, {Kane}, {Collier Cameron}, {Lister}, {Haswell}, {Norton}, {Jones},
+  {Skillen}, {Hodgkin}, {Wheatley}, {West}, and {Brett}]{2003ASPC..294..405S}
+R.~A. {Street}, D.~L. {Pollaco}, A.~{Fitzsimmons}, F.~P. {Keenan}, K.~{Horne},
+  S.~{Kane}, A.~{Collier Cameron}, T.~A. {Lister}, C.~{Haswell}, A.~J.
+  {Norton}, B.~W. {Jones}, I.~{Skillen}, S.~{Hodgkin}, P.~{Wheatley},
+  R.~{West}, and D.~{Brett}.
+\newblock {SuperWASP: Wide Angle Search for Planets}.
+\newblock \emph{Scientific Frontiers in Research on Extrasolar Planets},
+  294:\penalty0 405--408, 2003.
+
 \bibitem[{Tiscareno}(2013)]{2013pss3.book..309T}
 M.~S. {Tiscareno}.
 \newblock \emph{{Planetary Rings}}, page 309.
 \newblock 2013.
 \newblock \doi{10.1007/978-94-007-5606-9_7}.
+
+\bibitem[{Turon} et~al.(1993){Turon}, {Creze}, {Egret}, {Gomez}, {Grenon},
+  {JahreiB}, {Requieme}, {Argue}, {Bec-Borsenberger}, {Dommanget},
+  {Mennessier}, {Arenou}, {Chareton}, {Crifo}, {Mermilliod}, {Morin},
+  {Nicolet}, {Nys}, {Prevot}, {Rousseau}, {Perryman}, {Arlot}, {Baglin},
+  {Barthes}, {Baylac}, {Brosche}, {Burnet}, {Delhaye}, {Dettbarn}, {Erbach},
+  {Figueras}, {Fricke}, {Helmer}, {Hemenway}, {Jordi}, {Lampens}, {Lederle},
+  {Lub}, {Manfroid}, {Mattci}, {Mazurier}, {Mermilliod}, {Morrison}, {Murray},
+  {Oblak}, {Perie}, {Pernier}, {Le Poole}, {Quijano}, {Rapaport}, {Sellier},
+  {Torra}, {Tucholke}, {de Vegt}, {Argyle}, {Bacchus}, {Baron}, {Calaf},
+  {Cordoni}, {Fabricius}, {Feaugas}, {Fehlberg}, {Florkowski}, {de Geus},
+  {Gibbs}, {Hartman}, {Jauncey}, {Johnston}, {Marouard}, {Mekkas}, {Muinos},
+  {Nunez}, {Ochsenbein}, {de Orus}, {Paredes}, {Penston}, {Petersen}, {Peyrin},
+  {Robin}, {Roman}, {Rossello}, {Schwan}, {Sinachopoulos}, {White},
+  {Zacharias}, {Hog}, {Kovalevsky}, {van Leeuwen}, {Lindegren}, {Schutz}, and
+  {Schrijver}]{1993BICDS..43....5T}
+C.~{Turon}, M.~{Creze}, D.~{Egret}, A.~{Gomez}, M.~{Grenon}, H.~{JahreiB},
+  Y.~{Requieme}, A.~N. {Argue}, A.~{Bec-Borsenberger}, J.~{Dommanget}, M.~O.
+  {Mennessier}, F.~{Arenou}, M.~{Chareton}, F.~{Crifo}, J.~C. {Mermilliod},
+  D.~{Morin}, B.~{Nicolet}, O.~{Nys}, L.~{Prevot}, M.~{Rousseau}, M.~A.~C.
+  {Perryman}, J.~E. {Arlot}, A.~{Baglin}, D.~{Barthes}, M.~O. {Baylac},
+  P.~{Brosche}, M.~{Burnet}, J.~{Delhaye}, C.~{Dettbarn}, M.~{Erbach},
+  F.~{Figueras}, W.~{Fricke}, L.~{Helmer}, P.~{Hemenway}, C.~{Jordi},
+  P.~{Lampens}, T.~{Lederle}, J.~{Lub}, J.~{Manfroid}, J.~A. {Mattci}, J.~M.
+  {Mazurier}, M.~{Mermilliod}, L.~V. {Morrison}, C.~A. {Murray}, E.~{Oblak},
+  J.~P. {Perie}, B.~{Pernier}, R.~S. {Le Poole}, L.~{Quijano}, M.~{Rapaport},
+  A.~{Sellier}, J.~{Torra}, H.~J. {Tucholke}, C.~{de Vegt}, R.~W. {Argyle},
+  P.~{Bacchus}, N.~{Baron}, J.~{Calaf}, J.~P. {Cordoni}, C.~{Fabricius}, J.~C.
+  {Feaugas}, H.~J. {Fehlberg}, D.~R. {Florkowski}, E.~{de Geus}, P.~{Gibbs},
+  L.~{Hartman}, D.~L. {Jauncey}, K.~J. {Johnston}, M.~{Marouard}, A.~{Mekkas},
+  J.~L. {Muinos}, J.~{Nunez}, F.~{Ochsenbein}, J.~J. {de Orus}, J.~M.
+  {Paredes}, M.~J. {Penston}, C.~{Petersen}, Y.~{Peyrin}, A.~{Robin},
+  V.~{Roman}, G.~{Rossello}, H.~{Schwan}, D.~{Sinachopoulos}, G.~L. {White},
+  N.~{Zacharias}, E.~{Hog}, J.~{Kovalevsky}, F.~{van Leeuwen}, L.~{Lindegren},
+  A.~{Schutz}, and H.~{Schrijver}.
+\newblock {Version 2 of the HIPPARCOS Input Catalogue}.
+\newblock \emph{Bulletin d'Information du Centre de Donnees Stellaires}, 43,
+  jul 1993.
+
+\bibitem[{van Altena} et~al.(1995){van Altena}, {Lee}, and
+  {Hoffleit}]{1995gcts.book.....V}
+W.~F. {van Altena}, J.~T. {Lee}, and E.~D. {Hoffleit}.
+\newblock {The general catalogue of trigonometric [stellar] parallaxes}.
+\newblock 1995.
+
+\bibitem[{van Leeuwen} et~al.(2017){van Leeuwen}, {Evans}, {De Angeli},
+  {Jordi}, {Busso}, {Cacciari}, {Riello}, {Pancino}, {Altavilla}, {Brown},
+  {Burgess}, {Carrasco}, {Cocozza}, {Cowell}, {Davidson}, {De Luise},
+  {Fabricius}, {Galleti}, {Gilmore}, {Giuffrida}, {Hambly}, {Harrison},
+  {Hodgkin}, {Holland}, {MacDonald}, {Marinoni}, {Montegriffo}, {Osborne},
+  {Ragaini}, {Richards}, {Rowell}, {Voss}, {Walton}, {Weiler}, {Castellani},
+  {Delgado}, {H{\o}g}, {van Leeuwen}, {Millar}, {Pagani}, {Piersimoni},
+  {Pulone}, {Rixon}, {Suess}, {Wyrzykowski}, {Yoldas}, {Alecu}, {Allan},
+  {Balaguer-N{\'u}{\~n}ez}, {Barstow}, {Bellazzini}, {Belokurov},
+  {Blagorodnova}, {Bonfigli}, {Bragaglia}, {Brown}, {Bunclark}, {Buonanno},
+  {Burgon}, {Campbell}, {Collins}, {Cross}, {Ducourant}, {van Elteren},
+  {Evans}, {Federici}, {Fern{\'a}ndez-Hern{\'a}ndez}, {Figueras}, {Fraser},
+  {Fyfe}, {Gebran}, {Heyrovsky}, {Holl}, {Holland}, {Iannicola}, {Irwin},
+  {Koposov}, {Krone- Martins}, {Mann}, {Marrese}, {Masana}, {Munari}, {Ortiz},
+  {Ouzounis}, {Peltzer}, {Portell}, {Read}, {Terrett}, {Torra}, {Trager},
+  {Troisi}, {Valentini}, {Vallenari}, and {Wevers}]{2017A&A...599A..32V}
+F.~{van Leeuwen}, D.~W. {Evans}, F.~{De Angeli}, C.~{Jordi}, G.~{Busso},
+  C.~{Cacciari}, M.~{Riello}, E.~{Pancino}, G.~{Altavilla}, A.~G.~A. {Brown},
+  P.~{Burgess}, J.~M. {Carrasco}, G.~{Cocozza}, S.~{Cowell}, M.~{Davidson},
+  F.~{De Luise}, C.~{Fabricius}, S.~{Galleti}, G.~{Gilmore}, G.~{Giuffrida},
+  N.~C. {Hambly}, D.~L. {Harrison}, S.~T. {Hodgkin}, G.~{Holland},
+  I.~{MacDonald}, S.~{Marinoni}, P.~{Montegriffo}, P.~{Osborne}, S.~{Ragaini},
+  P.~J. {Richards}, N.~{Rowell}, H.~{Voss}, N.~A. {Walton}, M.~{Weiler},
+  M.~{Castellani}, A.~{Delgado}, E.~{H{\o}g}, M.~{van Leeuwen}, N.~R. {Millar},
+  C.~{Pagani}, A.~M. {Piersimoni}, L.~{Pulone}, G.~{Rixon}, F.~F. {Suess},
+  {\L}.~{Wyrzykowski}, A.~{Yoldas}, A.~{Alecu}, P.~M. {Allan},
+  L.~{Balaguer-N{\'u}{\~n}ez}, M.~A. {Barstow}, M.~{Bellazzini},
+  V.~{Belokurov}, N.~{Blagorodnova}, M.~{Bonfigli}, A.~{Bragaglia}, S.~{Brown},
+  P.~{Bunclark}, R.~{Buonanno}, R.~{Burgon}, H.~{Campbell}, R.~S. {Collins},
+  N.~J.~G. {Cross}, C.~{Ducourant}, A.~{van Elteren}, N.~W. {Evans},
+  L.~{Federici}, J.~{Fern{\'a}ndez-Hern{\'a}ndez}, F.~{Figueras}, M.~{Fraser},
+  D.~{Fyfe}, M.~{Gebran}, A.~{Heyrovsky}, B.~{Holl}, A.~D. {Holland},
+  G.~{Iannicola}, M.~{Irwin}, S.~E. {Koposov}, A.~{Krone- Martins}, R.~G.
+  {Mann}, P.~M. {Marrese}, E.~{Masana}, U.~{Munari}, P.~{Ortiz}, A.~{Ouzounis},
+  C.~{Peltzer}, J.~{Portell}, A.~{Read}, D.~{Terrett}, J.~{Torra}, S.~C.
+  {Trager}, L.~{Troisi}, G.~{Valentini}, A.~{Vallenari}, and T.~{Wevers}.
+\newblock {Gaia Data Release 1. The photometric data}.
+\newblock \emph{A\&A}, 599:\penalty0 A32, Mar 2017.
+\newblock \doi{10.1051/0004-6361/201630064}.
+
+\bibitem[{Ward} and {Canup}(2010)]{2010AJ....140.1168W}
+W.~R. {Ward} and R.~M. {Canup}.
+\newblock {Circumplanetary Disk Formation}.
+\newblock \emph{ApJ}, 140:\penalty0 1168--1193, nov 2010.
+\newblock \doi{10.1088/0004-6256/140/5/1168}.
+
+\bibitem[{Wilson} et~al.(2008){Wilson}, {Gillon}, {Hellier}, {Maxted}, {Pepe},
+  {Queloz}, {Anderson}, {Collier Cameron}, {Smalley}, {Lister}, {Bentley},
+  {Blecha}, {Christian}, {Enoch}, {Haswell}, {Hebb}, {Horne}, {Irwin}, {Joshi},
+  {Kane}, {Marmier}, {Mayor}, {Parley}, {Pollacco}, {Pont}, {Ryans},
+  {Segransan}, {Skillen}, {Street}, {Udry}, {West}, and
+  {Wheatley}]{2008ApJ...675L.113W}
+D.~M. {Wilson}, M.~{Gillon}, C.~{Hellier}, P.~F.~L. {Maxted}, F.~{Pepe},
+  D.~{Queloz}, D.~R. {Anderson}, A.~{Collier Cameron}, B.~{Smalley}, T.~A.
+  {Lister}, S.~J. {Bentley}, A.~{Blecha}, D.~J. {Christian}, B.~{Enoch}, C.~A.
+  {Haswell}, L.~{Hebb}, K.~{Horne}, J.~{Irwin}, Y.~C. {Joshi}, S.~R. {Kane},
+  M.~{Marmier}, M.~{Mayor}, N.~{Parley}, D.~{Pollacco}, F.~{Pont}, R.~{Ryans},
+  D.~{Segransan}, I.~{Skillen}, R.~A. {Street}, S.~{Udry}, R.~G. {West}, and
+  P.~J. {Wheatley}.
+\newblock {WASP-4b: A 12th Magnitude Transiting Hot Jupiter in the Southern
+  Hemisphere}, mar 2008.
+
+\bibitem[{Winn} et~al.(2006){Winn}, {Hamilton}, {Herbst}, {Hoffman}, {Holman},
+  {Johnson}, and {Kuchner}]{2006ApJ...644..510W}
+J.~N. {Winn}, C.~M. {Hamilton}, W.~J. {Herbst}, J.~L. {Hoffman}, M.~J.
+  {Holman}, J.~A. {Johnson}, and M.~J. {Kuchner}.
+\newblock {The Orbit and Occultations of KH 15D}.
+\newblock \emph{ApJ}, 644:\penalty0 510--524, jun 2006.
+\newblock \doi{10.1086/503417}.
+
+\bibitem[{Wright} et~al.(2010){Wright}, {Eisenhardt}, {Mainzer}, {Ressler},
+  {Cutri}, {Jarrett}, {Kirkpatrick}, {Padgett}, {McMillan}, {Skrutskie},
+  {Stanford}, {Cohen}, {Walker}, {Mather}, {Leisawitz}, {Gautier}, {McLean},
+  {Benford}, {Lonsdale}, {Blain}, {Mendez}, {Irace}, {Duval}, {Liu}, {Royer},
+  {Heinrichsen}, {Howard}, {Shannon}, {Kendall}, {Walsh}, {Larsen}, {Cardon},
+  {Schick}, {Schwalm}, {Abid}, {Fabinsky}, {Naes}, and
+  {Tsai}]{2010AJ....140.1868W}
+E.~L. {Wright}, P.~R.~M. {Eisenhardt}, A.~K. {Mainzer}, M.~E. {Ressler}, R.~M.
+  {Cutri}, T.~{Jarrett}, J.~D. {Kirkpatrick}, D.~{Padgett}, R.~S. {McMillan},
+  M.~{Skrutskie}, S.~A. {Stanford}, M.~{Cohen}, R.~G. {Walker}, J.~C. {Mather},
+  D.~{Leisawitz}, T.~N. {Gautier}, III, I.~{McLean}, D.~{Benford}, C.~J.
+  {Lonsdale}, A.~{Blain}, B.~{Mendez}, W.~R. {Irace}, V.~{Duval}, F.~{Liu},
+  D.~{Royer}, I.~{Heinrichsen}, J.~{Howard}, M.~{Shannon}, M.~{Kendall}, A.~L.
+  {Walsh}, M.~{Larsen}, J.~G. {Cardon}, S.~{Schick}, M.~{Schwalm}, M.~{Abid},
+  B.~{Fabinsky}, L.~{Naes}, and C.-W. {Tsai}.
+\newblock {The Wide-field Infrared Survey Explorer (WISE): Mission Description
+  and Initial On-orbit Performance}.
+\newblock \emph{ApJ}, 140:\penalty0 1868--1881, dec 2010.
+\newblock \doi{10.1088/0004-6256/140/6/1868}.
+
+\bibitem[{Wright} and {Mamajek}(2018)]{2018MNRAS.tmp..210W}
+N.~J. {Wright} and E.~E. {Mamajek}.
+\newblock {The Kinematics of the Scorpius-Centaurus OB Association from Gaia
+  DR1}.
+\newblock \emph{MNRAS}, jan 2018.
+\newblock \doi{10.1093/mnras/sty207}.
+
+\bibitem[{Zari} et~al.(2017){Zari}, {Brown}, {de Bruijne}, {Manara}, and {de
+  Zeeuw}]{Zari17}
+E.~{Zari}, A.~G.~A. {Brown}, J.~{de Bruijne}, C.~F. {Manara}, and P.~T. {de
+  Zeeuw}.
+\newblock {Mapping young stellar populations toward Orion with Gaia DR1}.
+\newblock \emph{A\&A}, 608:\penalty0 A148, Dec 2017.
+\newblock \doi{10.1051/0004-6361/201731309}.
 
 \bibitem[{Zucker} and {Mazeh}(2002)]{2002ApJ...568L.113Z}
 S.~{Zucker} and T.~{Mazeh}.

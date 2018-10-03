@@ -10,55 +10,61 @@ A level-1 auxiliary file: Capitulos/Chapter01.aux
 A level-1 auxiliary file: Capitulos/Chapter02.aux
 A level-1 auxiliary file: Capitulos/Chapter03.aux
 A level-1 auxiliary file: Capitulos/Chapter04.aux
-A level-1 auxiliary file: Capitulos/Chapter05.aux
 A level-1 auxiliary file: FrontBackmatter/Bibliography.aux
 The style file: plainnat.bst
 A level-1 auxiliary file: Capitulos/Appendix.aux
 Database file #1: Bibliografia.bib
+Warning--entry type for "2008ApJ...675L.113W" isn't style-file defined
+--line 927 of file Bibliografia.bib
+Warning--entry type for "vanLeeuwen17" isn't style-file defined
+--line 1273 of file Bibliografia.bib
 Warning--can't use both author and editor fields in 2009sfch.book..537C
 Warning--empty publisher in 2009sfch.book..537C
+Warning--empty journal in 2010EAS....45..181C
+Warning--empty journal in Mamajek2016
 Warning--empty journal in 2010EAS....41..107N
 Warning--can't use both author and editor fields in 2013pss3.book..309T
 Warning--empty publisher in 2013pss3.book..309T
-You've used 21 entries,
+Warning--empty journal in 1995gcts.book.....V
+You've used 79 entries,
             2773 wiz_defined-function locations,
-            779 strings with 10997 characters,
-and the built_in function-call counts, 14300 in all, are:
-= -- 1154
-> -- 1299
-< -- 14
-+ -- 438
-- -- 416
-* -- 1369
-:= -- 2325
-add.period$ -- 81
-call.type$ -- 21
-change.case$ -- 199
-chr.to.int$ -- 20
-cite$ -- 47
-duplicate$ -- 458
-empty$ -- 829
-format.name$ -- 445
-if$ -- 2882
-int.to.chr$ -- 2
+            1168 strings with 38893 characters,
+and the built_in function-call counts, 85978 in all, are:
+= -- 6217
+> -- 11001
+< -- 32
++ -- 3678
+- -- 3596
+* -- 9132
+:= -- 14627
+add.period$ -- 293
+call.type$ -- 79
+change.case$ -- 1433
+chr.to.int$ -- 76
+cite$ -- 166
+duplicate$ -- 1643
+empty$ -- 2951
+format.name$ -- 3705
+if$ -- 16524
+int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 23
-newline$ -- 131
-num.names$ -- 86
-pop$ -- 374
+missing$ -- 79
+newline$ -- 459
+num.names$ -- 318
+pop$ -- 2729
 preamble$ -- 1
-purify$ -- 180
+purify$ -- 1356
 quote$ -- 0
-skip$ -- 403
+skip$ -- 2133
 stack$ -- 0
-substring$ -- 409
-swap$ -- 65
-text.length$ -- 3
+substring$ -- 1258
+swap$ -- 181
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 221
-warning$ -- 5
-while$ -- 86
+type$ -- 859
+warning$ -- 8
+while$ -- 305
 width$ -- 0
-write$ -- 313
-(There were 5 warnings)
+write$ -- 1130
+(There were 10 warnings)

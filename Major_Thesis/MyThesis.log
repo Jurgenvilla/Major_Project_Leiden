@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.10)  13 MAR 2018 21:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.10)  28 JUN 2018 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,15 +599,15 @@ File: lstlang3.sty 2015/06/04 1.6 listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 368.
-Package hyperref Info: Option `linktocpage' set `true' on input line 368.
-Package hyperref Info: Option `breaklinks' set `true' on input line 368.
-Package hyperref Info: Option `pageanchor' set `true' on input line 368.
-Package hyperref Info: Option `plainpages' set `false' on input line 368.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 368.
+Package hyperref Info: Option `colorlinks' set `true' on input line 369.
+Package hyperref Info: Option `linktocpage' set `true' on input line 369.
+Package hyperref Info: Option `breaklinks' set `true' on input line 369.
+Package hyperref Info: Option `pageanchor' set `true' on input line 369.
+Package hyperref Info: Option `plainpages' set `false' on input line 369.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 369.
 
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 368.
-Package hyperref Info: Option `hypertexnames' set `true' on input line 368.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 369.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 369.
 
 (./classicthesis.sty
 Package: classicthesis 2011/06/05 v3.0 Typographic Style for a classic-looking 
@@ -1427,16 +1427,9 @@ Writing index file MyThesis.idx
 (./MyThesis.aux (./FrontBackmatter/Titlepage.aux)
 (./FrontBackmatter/Titleback.aux) (./FrontBackmatter/Abstract.aux)
 (./FrontBackmatter/Acknowledgments.aux) (./FrontBackmatter/Contents.aux)
-(./Capitulos/Chapter01.aux) (./Capitulos/Chapter02.aux
-
-LaTeX Warning: Label `fig:Mass_Nielsen' multiply defined.
-
-) (./Capitulos/Chapter03.aux) (./Capitulos/Chapter04.aux)
-(./Capitulos/Chapter05.aux
-
-LaTeX Warning: Label `ch: Summary' multiply defined.
-
-) (./FrontBackmatter/Bibliography.aux) (./Capitulos/Appendix.aux))
+(./Capitulos/Chapter01.aux) (./Capitulos/Chapter02.aux)
+(./Capitulos/Chapter03.aux) (./Capitulos/Chapter04.aux)
+(./FrontBackmatter/Bibliography.aux) (./Capitulos/Appendix.aux))
 \openout1 = `MyThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 285.
@@ -1566,19 +1559,19 @@ ABD: EveryShipout initializing macros
 \openout2 = `FrontBackmatter/Titlepage.aux'.
 
  (./FrontBackmatter/Titlepage.tex
-<gfx/EXO_3.jpg, id=159, 691.83469pt x 363.60844pt>
-File: gfx/EXO_3.jpg Graphic file (type jpg)
- <use gfx/EXO_3.jpg>
-Package pdftex.def Info: gfx/EXO_3.jpg used on input line 35.
-(pdftex.def)             Requested size: 341.44052pt x 170.71844pt.
+<gfx/EXO_4.png, id=163, 963.6pt x 542.025pt>
+File: gfx/EXO_4.png Graphic file (type png)
+ <use gfx/EXO_4.png>
+Package pdftex.def Info: gfx/EXO_4.png used on input line 33.
+(pdftex.def)             Requested size: 327.20798pt x 170.71396pt.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 38.
 
-<gfx/Logo_Leiden.png, id=160, 202.23555pt x 105.2733pt>
+<gfx/Logo_Leiden.png, id=164, 202.23555pt x 105.2733pt>
 File: gfx/Logo_Leiden.png Graphic file (type png)
 
 <use gfx/Logo_Leiden.png>
-Package pdftex.def Info: gfx/Logo_Leiden.png used on input line 60.
+Package pdftex.def Info: gfx/Logo_Leiden.png used on input line 59.
 (pdftex.def)             Requested size: 279.49738pt x 145.5022pt.
  [1
 
@@ -1586,546 +1579,6 @@ Package pdftex.def Info: gfx/Logo_Leiden.png used on input line 60.
 
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `cob' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `cobo' already exists, duplicates 
-ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `com' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `coo' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `hv' already exists, duplicates ig
-nored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `hvb' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `hvbo' already exists, duplicates 
-ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `hvo' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrb8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrb8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrb8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrbo8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrbo8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrbo8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrr8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrr8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `pcrr8rn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrr8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrro8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrro8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pcrro8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvb8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvb8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvb8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvbo8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvbo8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvbo8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvr8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvr8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvr8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvro8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvro8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `phvro8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pncr8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pncri8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `psyr' already exists, duplicates 
-ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `psyrgo' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `psyro': SlantFont/ExtendFont can 
-be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmb8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmb8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmb8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmbi8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmbi8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmbi8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmbo8r': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmbo8y': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmr8g' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmr8r' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmr8rn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmr8y' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmr8yn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmri8g' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmri8r' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `ptmri8y' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmro8r': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmro8y': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmrr8re': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `ptmrr8ye': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `pzdr' already exists, duplicates 
-ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpcrb' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpcrbo' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpcrr' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpcrro' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rphvb' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rphvbo' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rphvbon': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rphvbrn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rphvr' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rphvro' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rphvron': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rphvrrn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpsyr' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rpsyro': SlantFont/ExtendFont can
- be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rptmb' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rptmbi' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rptmbo': SlantFont/ExtendFont can
- be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rptmr' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rptmri' already exists, duplicate
-s ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rptmro': SlantFont/ExtendFont can
- be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rptmrre': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rptmrrn': SlantFont/ExtendFont ca
-n be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpzdr' already exists, duplicates
- ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxphvb' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rtxphvbo': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxphvr' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rtxphvro': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxptmb' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxptmbi' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rtxptmbo': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxptmr' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rtxptmri' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rtxptmro': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `sy' already exists, duplicates ig
-nored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tib' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tibi' already exists, duplicates 
-ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tibo': SlantFont/ExtendFont can b
-e used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tii' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tio': SlantFont/ExtendFont can be
- used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tir' already exists, duplicates i
-gnored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tmbi108r' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tmbo108r': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tmbu108r': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tmrb108r' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tmri108r' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `tmrm108r' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tmro108r': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `tmui108r': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `zd' already exists, duplicates ig
-nored
-
 
 pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
 pdftex/updmap/pdftex.map): invalid entry for `LHSName': both ps_name and font f
@@ -2140,635 +1593,11 @@ ile missing
 pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
 pdftex/updmap/pdftex.map): ambiguous entry for `UniClass[letter]': font file pr
 esent but not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-il2': Slan
-tFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-ot1': Slan
-tFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-ot2': Slan
-tFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-t1--base':
- SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-t2a--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-t2b--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-t2c--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-ts1--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-BoldSlanted-tlf-x2--base':
- SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-il2': SlantFon
-t/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-ot1': SlantFon
-t/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-ot2': SlantFon
-t/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-t1--base': Sla
-ntFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-t2a--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-t2b--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-t2c--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-ts1--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTMono-Slanted-tlf-x2--base': Sla
-ntFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-il2
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-ot1
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-ot2
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-t1-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-t2a
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-t2b
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-t2c
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-ts1
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionBoldSlanted-tlf-x2-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-il2': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-ot1': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-ot2': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-t1--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-t2a--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-t2b--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-t2c--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-ts1--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-CaptionSlanted-tlf-x2--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-il2'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-ot1'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-ot2'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-t1--
-base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-t2a-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-t2b-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-t2c-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-ts1-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowBoldSlanted-tlf-x2--
-base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-il2': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-ot1': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-ot2': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-t1--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-t2a--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-t2b--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-t2c--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-ts1--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSans-NarrowSlanted-tlf-x2--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-il2': Sla
-ntFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-ot1': Sla
-ntFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-ot2': Sla
-ntFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-t1--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-t2a--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-t2b--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-t2c--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-ts1--base
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldSlanted-tlf-x2--base'
-: SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-il2
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-ot1
-': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-t1-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-t2a
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-t2b
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-t2c
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-ts1
---base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-BoldUprightItalic-tlf-x2-
--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-il2': 
-SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-ot1': 
-SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-ot2': 
-SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-t1--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-t2a--b
-ase': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-t2b--b
-ase': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-t2c--b
-ase': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-ts1--b
-ase': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionSlanted-tlf-x2--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-il2': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-ot1': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-t1--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-t2a--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-t2b--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-t2c--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-ts1--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-CaptionUprightItalic-tlf-
-x2--base': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-il2': SlantFo
-nt/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-ot1': SlantFo
-nt/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-ot2': SlantFo
-nt/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-t1--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-t2a--base': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-t2b--base': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-t2c--base': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-ts1--base': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-Slanted-tlf-x2--base': Sl
-antFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-il2': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-ot1': S
-lantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-t1--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-t2a--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-t2b--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-t2c--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-ts1--ba
-se': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `PTSerif-UprightItalic-tlf-x2--bas
-e': SlantFont/ExtendFont can be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpxpplb' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpxpplbi' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rpxpplbo': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpxpplr' already exists, duplicat
-es ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): fontmap entry for `rpxpplri' already exists, duplica
-tes ignored
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): invalid entry for `rpxpplro': SlantFont/ExtendFont c
-an be used only with embedded Type1 fonts
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtcxbsl': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtcxbsso': font file present bu
-t not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtcxsl': font file present but 
-not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtcxsssl': font file present bu
-t not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtxbsl': font file present but 
-not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtxbsssl': font file present bu
-t not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtxsl': font file present but n
-ot included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `rtxsssl': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `t1xbttsl': font file present bu
-t not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `t1xttsl': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `tcxbttsl': font file present bu
-t not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `tcxttsl': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `txbttsl': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
-pdftex/updmap/pdftex.map): ambiguous entry for `txttsl': font file present but 
-not included, will be treated as font file not present
-} <./gfx/EXO_3.jpg> <./gfx/Logo_Leiden.png>])
+} <./gfx/EXO_4.png (PNG copy)> <./gfx/Logo_Leiden.png>])
 \openout2 = `FrontBackmatter/Titleback.aux'.
 
- (./FrontBackmatter/Titleback.tex
+
+(./FrontBackmatter/Titleback.tex
 LaTeX Font Info:    Try loading font information for TS1+futs on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
@@ -2790,8 +1619,56 @@ LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 12.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 16
+.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
+File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
+)
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 16.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 16.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 16.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.64865pt on input line 16.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 16.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.64865pt on input line 16.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 16.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 16.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 16.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 16.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
@@ -2807,39 +1684,112 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 ]
 \openout2 = `FrontBackmatter/Acknowledgments.aux'.
 
- (./FrontBackmatter/Acknowledgments.tex
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-[5
+ (./FrontBackmatter/Acknowledgments.tex [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 42.
+
+(/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 42.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin9'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ... consortium universities and from the UKâ€
+                                                  ™s Science and Technology ...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin9'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...consortium universities and from the UKâ€™
+                                                  s Science and Technology F...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 44.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 44.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 44.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 44.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 44.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 44.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 44.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-) [6]
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+) [7] [8
+
+
+
+]
 \openout2 = `FrontBackmatter/Contents.aux'.
 
  (./FrontBackmatter/Contents.tex
@@ -2848,85 +1798,58 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 11
  (./MyThesis.toc
 LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <10.95> not available
 (Font)              Font shape `T1/futs/b/sc' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 13
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
-File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
-)
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 13.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 13.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 13.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.64865pt on input line 13.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 13.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.64865pt on input line 13.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 13.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `zplm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 13.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 13.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 13.
 )
 \tf@toc=\write7
 \openout7 = `MyThesis.toc'.
 
- [7
-
-
-
+ [9
 
 
 
 ]
 Package tocbasic Info: character protrusion at lof deactivated on input line 32
 .
+ (./MyThesis.lof
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 6.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 6.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 6.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.08565pt on input line 6.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 6.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.08565pt on input line 6.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 6.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 6.
+LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <8> not available
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 10.
 
-(./MyThesis.lof)
+[10
+
+]
+LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <8> not available
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 16.
+ [11] [12] [13] [14])
 \tf@lof=\write8
 \openout8 = `MyThesis.lof'.
 
+ [15]
 Package tocbasic Info: character protrusion at lot deactivated on input line 43
 .
  (./MyThesis.lot)
 \tf@lot=\write9
 \openout9 = `MyThesis.lot'.
 
- [8
-
-])
+ [16])
 \openout2 = `Capitulos/Chapter01.aux'.
 
- (./Capitulos/Chapter01.tex
+
+(./Capitulos/Chapter01.tex
 chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -2944,74 +1867,45 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              deprecated \float@addtolist interface .
 
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <12> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 6.
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/futs/bx/sc' in size <12> not available
-(Font)              Font shape `T1/futs/b/sc' tried instead on input line 6.
+(Font)              Font shape `T1/futs/b/sc' tried instead on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-) [1
-
-
-
-
-
-
-
-
-] [2]
-\openout2 = `Capitulos/Chapter02.aux'.
-
- (./Capitulos/Chapter02.tex
-chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 19.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 19.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 19.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 19.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 19.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 19.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 19.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 19.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 19.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 19.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 19.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 19.
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+
+
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
@@ -3020,33 +1914,224 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--34
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-[3
+<./Graficos/Capitulo_1/Gaia_DR1_Flux.png, id=579, 700.86844pt x 341.77687pt>
+File: ./Graficos/Capitulo_1/Gaia_DR1_Flux.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/Gaia_DR1_Flux.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/Gaia_DR1_Flux.png used on input 
+line 31.
+(pdftex.def)             Requested size: 341.43939pt x 170.72113pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+<./Graficos/Capitulo_1/Gaia_DR2_Flux.png, id=617, 703.12688pt x 338.76563pt>
+File: ./Graficos/Capitulo_1/Gaia_DR2_Flux.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/Gaia_DR2_Flux.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/Gaia_DR2_Flux.png used on input 
+line 46.
+(pdftex.def)             Requested size: 369.8767pt x 170.72119pt.
+
+<./Graficos/Capitulo_1/Gaia_DR2_FluxColor.png, id=624, 709.14937pt x 362.10281p
+t>
+File: ./Graficos/Capitulo_1/Gaia_DR2_FluxColor.png Graphic file (type png)
+ <use ./Graficos/Capitulo_1/Gaia_DR2_FluxColor.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/Gaia_DR2_FluxColor.png used on i
+nput line 55.
+(pdftex.def)             Requested size: 355.6667pt x 170.71875pt.
+ [4 <./Graficos/Capitulo_1/Gaia_DR1_Flux.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[5 <./Graficos/Capitulo_1/Gaia_DR2_Flux.png> <./Graficos/Capitulo_1/Gaia_DR2_Fl
+uxColor.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<./Graficos/Capitulo_1/SWASP_DR1.png, id=681, 609.77812pt x 371.88937pt>
+File: ./Graficos/Capitulo_1/SWASP_DR1.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/SWASP_DR1.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/SWASP_DR1.png used on input line
+ 76.
+(pdftex.def)             Requested size: 341.4455pt x 199.17163pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 82.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+[6]
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 107.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 107.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 107.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 107.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 107.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 107.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 107.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 107.
+ [7 <./Graficos/Capitulo_1/SWASP_DR1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+[8] <./Graficos/Capitulo_1/ScoCen.png, id=775, 1357.07pt x 807.015pt>
+File: ./Graficos/Capitulo_1/ScoCen.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/ScoCen.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/ScoCen.png used on input line 13
+4.
+(pdftex.def)             Requested size: 426.77527pt x 241.84776pt.
+ [9 <./Graficos/Capitulo_1/ScoCen.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[10]
+<./Graficos/Capitulo_1/Mamajek_J1407.png, id=871, 717.43031pt x 381.67593pt>
+File: ./Graficos/Capitulo_1/Mamajek_J1407.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/Mamajek_J1407.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/Mamajek_J1407.png used on input 
+line 158.
+(pdftex.def)             Requested size: 455.25667pt x 284.5382pt.
+
+Overfull \hbox (25.25667pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+[11 <./Graficos/Capitulo_1/Mamajek_J1407.png>]
+<./Graficos/Capitulo_1/Rings.png, id=906, 663.22781pt x 209.28188pt>
+File: ./Graficos/Capitulo_1/Rings.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_1/Rings.png>
+Package pdftex.def Info: ./Graficos/Capitulo_1/Rings.png used on input line 167
+.
+(pdftex.def)             Requested size: 426.79196pt x 142.26187pt.
+) [12 <./Graficos/Capitulo_1/Rings.png>]
+\openout2 = `Capitulos/Chapter02.aux'.
+
+
+(./Capitulos/Chapter02.tex
+chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+[13
 
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
@@ -3058,23 +2143,13 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62   \end{align*}
+l.70   \end{align*}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
@@ -3084,21 +2159,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-[5]
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
 
 ! Package amsmath Error: Erroneous nesting of equation structures;
 (amsmath)                trying to recover with `aligned'.
@@ -3107,18 +2196,43 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.115   \end{align*}
+l.131   \end{align*}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 1005) in paragraph at lines 135--136
+\T1/futs/m/n/10.95 (+20) Method. Thus, one can rewrite the distributions as sho
+wn in [][]Equation 2.11[][][] where the
+ []
+
+[16]
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144   \end{align*}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
@@ -3130,278 +2244,754 @@ See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134  \end{align*}
+l.162  \end{align*}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
-
- []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
 
-[7]
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--202
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--236
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
 
  []
 
 
-<./Graficos/Capitulo_2/Illustrations/Prob_1.png, id=450, 539.01375pt x 559.0887
-5pt>
-File: ./Graficos/Capitulo_2/Illustrations/Prob_1.png Graphic file (type png)
- <use ./Graficos/Capitulo_2/Illustrations/Prob_1.png>
-Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_1.png used on
- input line 269.
-(pdftex.def)             Requested size: 227.62614pt x 227.62404pt.
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
 
  []
 
 
-<./Graficos/Capitulo_2/Illustrations/Prob_2.png, id=452, 637.63219pt x 197.9896
-9pt>
-File: ./Graficos/Capitulo_2/Illustrations/Prob_2.png Graphic file (type png)
- <use ./Graficos/Capitulo_2/Illustrations/Prob_2.png>
-Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_2.png used on
- input line 283.
-(pdftex.def)             Requested size: 483.70065pt x 142.26546pt.
+<./Graficos/Capitulo_2/Illustrations/Prob_1.jpg, id=1112, 144.0582pt x 119.7273
+pt>
+File: ./Graficos/Capitulo_2/Illustrations/Prob_1.jpg Graphic file (type jpg)
+ <use ./Graficos/Capitulo_2/Illustrations/Prob_1.jpg>
+Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_1.jpg used on
+ input line 297.
+(pdftex.def)             Requested size: 227.638pt x 199.18204pt.
 
-Overfull \hbox (53.70065pt too wide) in paragraph at lines 283--284
- [][] 
- []
-
-[11 <./Graficos/Capitulo_2/Illustrations/Prob_1.png>]
-<./Graficos/Capitulo_2/Illustrations/Prob_4.png, id=462, 458.46281pt x 226.5965
-6pt>
-File: ./Graficos/Capitulo_2/Illustrations/Prob_4.png Graphic file (type png)
- <use ./Graficos/Capitulo_2/Illustrations/Prob_4.png>
-Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_4.png used on
- input line 300.
-(pdftex.def)             Requested size: 341.44678pt x 170.71803pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
-[12 <./Graficos/Capitulo_2/Illustrations/Prob_2.png> <./Graficos/Capitulo_2/Ill
-ustrations/Prob_4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+[22 <./Graficos/Capitulo_2/Illustrations/Prob_1.jpg>]
+<./Graficos/Capitulo_2/Illustrations/Prob_2.jpg, id=1125, 219.7008pt x 96.1191p
+t>
+File: ./Graficos/Capitulo_2/Illustrations/Prob_2.jpg Graphic file (type jpg)
+ <use ./Graficos/Capitulo_2/Illustrations/Prob_2.jpg>
+Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_2.jpg used on
+ input line 311.
+(pdftex.def)             Requested size: 398.36092pt x 176.42416pt.
+
+<./Graficos/Capitulo_2/Illustrations/Prob_4.jpg, id=1134, 161.6439pt x 97.0827p
+t>
+File: ./Graficos/Capitulo_2/Illustrations/Prob_4.jpg Graphic file (type jpg)
+ <use ./Graficos/Capitulo_2/Illustrations/Prob_4.jpg>
+Package pdftex.def Info: ./Graficos/Capitulo_2/Illustrations/Prob_4.jpg used on
+ input line 328.
+(pdftex.def)             Requested size: 341.46992pt x 207.71341pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+[23 <./Graficos/Capitulo_2/Illustrations/Prob_2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
 
-[13]
-<./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution_2.png, id=
-510, 528.0528pt x 384.9582pt>
-File: ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution_2.png
- Graphic file (type png)
+[24 <./Graficos/Capitulo_2/Illustrations/Prob_4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
-<use ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution_2.png>
-Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass
-_distribution_2.png used on input line 331.
-(pdftex.def)             Requested size: 341.4415pt x 256.08209pt.
+ []
 
-<./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution_2.png, id
-=511, 528.0528pt x 383.031pt>
-File: ./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution_2.pn
-g Graphic file (type png)
 
-<use ./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution_2.png
->
-Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Period_majo
-r_distribution_2.png used on input line 338.
-(pdftex.def)             Requested size: 341.4415pt x 256.09174pt.
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
-<./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution_2.png, id=5
-12, 510.4671pt x 387.849pt>
-File: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution_2.png 
-Graphic file (type png)
+ []
 
-<use ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution_2.png>
-Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_
-distribution_2.png used on input line 345.
-(pdftex.def)             Requested size: 341.45036pt x 256.0758pt.
-
-<./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png, id=5
-13, 955.4094pt x 712.3413pt>
+[25]
+<./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png, id=1
+207, 955.4094pt x 712.3413pt>
 File: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png 
 Graphic file (type png)
 
 <use ./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png>
 Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_distri
-bution_Nielsen.png used on input line 352.
+bution_Nielsen.png used on input line 400.
 (pdftex.def)             Requested size: 955.40706pt x 712.33955pt.
 
-Overfull \hbox (11.02748pt too wide) in paragraph at lines 352--353
+Overfull \hbox (11.02748pt too wide) in paragraph at lines 400--402
  [][] 
  []
 
 
 <./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Nielsen.png, id
-=514, 920.4789pt x 656.2116pt>
+=1212, 920.4789pt x 656.2116pt>
 File: ./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Nielsen.pn
 g Graphic file (type png)
 
 <use ./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Nielsen.png
 >
 Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Period_dist
-ribution_Nielsen.png used on input line 359.
+ribution_Nielsen.png used on input line 408.
 (pdftex.def)             Requested size: 920.47665pt x 656.20999pt.
 
-Overfull \hbox (11.03127pt too wide) in paragraph at lines 359--360
+Overfull \hbox (11.03127pt too wide) in paragraph at lines 408--410
  [][] 
  []
 
 
-<./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png, id=51
-5, 528.0528pt x 384.9582pt>
+<./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png, id=12
+17, 528.0528pt x 384.9582pt>
 File: ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png G
 raphic file (type png)
 
 <use ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png>
 Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass
-_distribution.png used on input line 366.
+_distribution.png used on input line 416.
 (pdftex.def)             Requested size: 341.4415pt x 256.08209pt.
 
-<./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png, id=5
-16, 528.0528pt x 383.031pt>
+<./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png, id=1
+222, 528.0528pt x 383.031pt>
 File: ./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png 
 Graphic file (type png)
 
 <use ./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png>
 Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Period_majo
-r_distribution.png used on input line 373.
+r_distribution.png used on input line 424.
 (pdftex.def)             Requested size: 341.4415pt x 256.09174pt.
 
-<./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png, id=517
-, 510.2262pt x 383.031pt>
+<./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png, id=122
+7, 510.2262pt x 383.031pt>
 File: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png Gr
 aphic file (type png)
 
 <use ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png>
 Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_
-distribution.png used on input line 380.
+distribution.png used on input line 432.
 (pdftex.def)             Requested size: 341.43715pt x 256.09174pt.
-)
-[14 <./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution_2.png>
-] [15 <./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution_2.p
-ng> <./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution_2.png>]
-[16 <./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png>]
-[17 <./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Nielsen.png
->] [18 <./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png
-> <./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png>]
-[19 <./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+
+<./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.png, id=1236, 962.3955pt x
+ 710.8959pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.png Graphic file (typ
+e png)
+ <use ./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.png>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.pn
+g used on input line 442.
+(pdftex.def)             Requested size: 962.39316pt x 710.89417pt.
+
+Overfull \hbox (11.0221pt too wide) in paragraph at lines 442--444
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_2/2_Exop_distributions/Kroupa.png, id=1237, 969.3816pt x 7
+10.8959pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Kroupa.png Graphic file (type 
+png)
+ <use ./Graficos/Capitulo_2/2_Exop_distributions/Kroupa.png>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Kroupa.png 
+used on input line 450.
+(pdftex.def)             Requested size: 969.37924pt x 710.89417pt.
+
+Overfull \hbox (11.0221pt too wide) in paragraph at lines 450--452
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+
+ []
+
+[26] [27 <./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.
+png>] [28 <./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Niels
+en.png>] [29 <./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distributi
+on.png> <./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.p
+ng>]
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 470.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 470.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 470.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 470.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 470.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 470.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 470.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 470.
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+<./Graficos/Capitulo_2/2_Exop_distributions/Linear_Interpolation.png, id=1275, 
+531.4254pt x 383.031pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Linear_Interpolation.png Graph
+ic file (type png)
+
+<use ./Graficos/Capitulo_2/2_Exop_distributions/Linear_Interpolation.png>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Linear_Inte
+rpolation.png used on input line 478.
+(pdftex.def)             Requested size: 341.44095pt x 256.09174pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+
+<./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen.png, id=1
+286, 537.9297pt x 383.031pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen.png 
+Graphic file (type png)
+
+<use ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen.png>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo
+_KroupaNielsen.png used on input line 487.
+(pdftex.def)             Requested size: 284.53502pt x 199.17142pt.
+
+<./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen_1.png, id
+=1287, 522.9939pt x 383.031pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen_1.pn
+g Graphic file (type png)
+
+<use ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen_1.png
+>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo
+_KroupaNielsen_1.png used on input line 489.
+(pdftex.def)             Requested size: 284.53523pt x 199.17142pt.
+
+Underfull \hbox (badness 1127) in paragraph at lines 490--490
+[][]|\T1/futs/m/n/8 Detection probability and expected number of detections as 
+a function of stellar mass. \T1/futs/b/it/8 (a)-panel\T1/futs/m/n/8 : Detection
+
+ []
+
+[30 <./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+[31 <./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.png>] [32 <./Graficos/
+Capitulo_2/2_Exop_distributions/Kroupa.png>]
+<./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic.png, id=1313, 924.5742p
+t x 383.031pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic.png Graphic file (
+type png)
+
+<use ./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic.png>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic
+.png used on input line 498.
+(pdftex.def)             Requested size: 455.24615pt x 184.94572pt.
+
+Overfull \hbox (27.51279pt too wide) in paragraph at lines 498--499
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+[33 <./Graficos/Capitulo_2/2_Exop_distributions/Linear_Interpolation.png>]
+<./Graficos/Capitulo_2/2_Exop_distributions/Analytic_rings_Kroupa_Nielsen.png, 
+id=1326, 523.4757pt x 383.031pt>
+File: ./Graficos/Capitulo_2/2_Exop_distributions/Analytic_rings_Kroupa_Nielsen.
+png Graphic file (type png)
+
+<use ./Graficos/Capitulo_2/2_Exop_distributions/Analytic_rings_Kroupa_Nielsen.p
+ng>
+Package pdftex.def Info: ./Graficos/Capitulo_2/2_Exop_distributions/Analytic_ri
+ngs_Kroupa_Nielsen.png used on input line 525.
+(pdftex.def)             Requested size: 341.42934pt x 256.09174pt.
+) [34 <./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen.png
+> <./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen_1.png>]
+ [35 <./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic.png> <./Graficos/C
+apitulo_2/2_Exop_distributions/Analytic_rings_Kroupa_Nielsen.png>] [36]
 \openout2 = `Capitulos/Chapter03.aux'.
 
 
-(./Capitulos/Chapter03.tex [20
+(./Capitulos/Chapter03.tex
+chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[37
 
 
 
 
 ]
-chapter 3.
-) [21]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 21.
+
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png, id=1389, 965.5272pt x 33
+6.2964pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png Graphic file (type p
+ng)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png u
+sed on input line 36.
+(pdftex.def)             Requested size: 455.24165pt x 156.49423pt.
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_2.png, id=1390, 965.5272pt x 33
+6.2964pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_2.png Graphic file (type p
+ng)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_2.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_2.png u
+sed on input line 38.
+(pdftex.def)             Requested size: 455.24165pt x 156.49423pt.
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_3.png, id=1391, 965.5272pt x 33
+6.2964pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_3.png Graphic file (type p
+ng)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_3.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_3.png u
+sed on input line 40.
+(pdftex.def)             Requested size: 455.24165pt x 156.49423pt.
+
+Overfull \hbox (27.50829pt too wide) in paragraph at lines 36--41
+ [][] 
+ []
+
+
+Overfull \hbox (27.50829pt too wide) in paragraph at lines 36--41
+ [][] 
+ []
+
+
+Overfull \hbox (27.50829pt too wide) in paragraph at lines 36--41
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_flipped.png, id=1396, 590.4
+459pt x 317.988pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_flipped.png Graphic fi
+le (type png)
+
+<use ./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_flipped.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_fli
+pped.png used on input line 47.
+(pdftex.def)             Requested size: 455.24838pt x 227.6217pt.
+
+Overfull \hbox (25.24838pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[38] [39 <./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png> <./Graficos/Cap
+itulo_3/5_Sco-Cen/Hist_Extintion_2.png> <./Graficos/Capitulo_3/5_Sco-Cen/Hist_E
+xtintion_3.png>]
+<./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.png, id=1425, 1015.1526pt 
+x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.png Graphic file (typ
+e png)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.pn
+g used on input line 63.
+(pdftex.def)             Requested size: 455.24997pt x 227.62453pt.
+
+Overfull \hbox (25.24997pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3_Extintion_cut.png, id=1434, 
+1015.1526pt x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3_Extintion_cut.png Graph
+ic file (type png)
+
+<use ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3_Extintion_cut.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3_Exti
+ntion_cut.png used on input line 70.
+(pdftex.def)             Requested size: 455.24997pt x 227.62453pt.
+
+Overfull \hbox (25.24997pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+<./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png, id=1451, 1182.0963pt x 390.
+4989pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png Graphic file (type png)
+
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png used
+ on input line 86.
+(pdftex.def)             Requested size: 441.01231pt x 156.4947pt.
+
+Overfull \hbox (11.01231pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+[40 <./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_flipped.png>] [41 <./Gr
+aficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.png> <./Graficos/Capitulo_3/5_S
+co-Cen/Mag_Col_diagram_3_Extintion_cut.png>]
+<./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Extintion_1.png, id=1475, 10
+15.1526pt x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Extintion_1.png Graphic
+ file (type png)
+
+<use ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Extintion_1.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Exti
+ntion_1.png used on input line 95.
+(pdftex.def)             Requested size: 455.24997pt x 227.62453pt.
+
+Overfull \hbox (25.24997pt too wide) in paragraph at lines 95--96
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.png, id=1490, 1015.1526p
+t x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.png Graphic file (t
+ype png)
+
+<use ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.
+png used on input line 102.
+(pdftex.def)             Requested size: 455.24997pt x 227.62453pt.
+
+Overfull \hbox (25.24997pt too wide) in paragraph at lines 102--103
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <12> not available
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 120.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[42 <./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png>]
+
+LaTeX Warning: Text page 43 contains only floats.
+
+
+Overfull \vbox (2.87456pt too high) has occurred while \output is active []
+
+
+[43 <./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Extintion_1.png> <./Graf
+icos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+[45]
+<./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Iscohrones.png, id=1580, 101
+9.007pt x 437.2335pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Iscohrones.png Graphic 
+file (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Iscohrones.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Isco
+hrones.png used on input line 178.
+(pdftex.def)             Requested size: 455.23703pt x 213.39899pt.
+
+Overfull \hbox (25.23703pt too wide) in paragraph at lines 178--179
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_FinalSelection.png, id=1583,
+ 1016.3571pt x 438.6789pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_FinalSelection.png Grap
+hic file (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_FinalSelection.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Fina
+lSelection.png used on input line 185.
+(pdftex.def)             Requested size: 455.24734pt x 213.3949pt.
+
+Overfull \hbox (25.24734pt too wide) in paragraph at lines 185--186
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_FinalSelection_Tracks.png,
+ id=1588, 1016.1162pt x 437.2335pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_FinalSelection_Tracks
+.png Graphic file (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_FinalSelection_Tracks.
+png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_Fi
+nalSelection_Tracks.png used on input line 192.
+(pdftex.def)             Requested size: 455.24797pt x 213.39899pt.
+
+Overfull \hbox (25.24797pt too wide) in paragraph at lines 192--193
+ [][] 
+ []
+
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalSample_Projection.png, id
+=1601, 590.4459pt x 317.988pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalSample_Projection.pn
+g Graphic file (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalSample_Projection.png
+>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalS
+ample_Projection.png used on input line 199.
+(pdftex.def)             Requested size: 455.24838pt x 227.6217pt.
+
+Overfull \hbox (25.24838pt too wide) in paragraph at lines 199--200
+ [][] 
+ []
+
+[46 <./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Iscohrones.png> <./Grafi
+cos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_FinalSelection.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+[47 <./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_FinalSelection_Tracks.
+png> <./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalSample_Projection.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png, id=1626, 747.9945pt x 344.7
+279pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png Graphic file (type png)
+
+ <use ./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png used
+ on input line 216.
+(pdftex.def)             Requested size: 426.79501pt x 199.16908pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 222.
+
+[48]
+<./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASPJ135747.png, id=1641, 747.9945pt
+ x 344.7279pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASPJ135747.png Graphic file (t
+ype png)
+ <use ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASPJ135747.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASPJ135747.
+png used on input line 253.
+(pdftex.def)             Requested size: 426.79501pt x 199.16908pt.
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J162339.png, id=1642, 757.3896p
+t x 344.7279pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J162339.png Graphic file (
+type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J162339.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J162339
+.png used on input line 260.
+(pdftex.def)             Requested size: 426.79335pt x 199.16908pt.
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822.png, id=1643, 747.9945p
+t x 344.7279pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822.png Graphic file (
+type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822
+.png used on input line 267.
+(pdftex.def)             Requested size: 426.79501pt x 199.16908pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+[49 <./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png> <./Graficos/Capitulo_3/
+7_DR2_LightCurves/1SWASPJ135747.png>] [50 <./Graficos/Capitulo_3/7_DR2_LightCur
+ves/1SWASP_J162339.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+
+<./Graficos/Capitulo_3/ScoCen_Coordinates.png, id=1676, 1036.3518pt x 550.9383p
+t>
+File: ./Graficos/Capitulo_3/ScoCen_Coordinates.png Graphic file (type png)
+ <use ./Graficos/Capitulo_3/ScoCen_Coordinates.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/ScoCen_Coordinates.png used on i
+nput line 285.
+(pdftex.def)             Requested size: 455.23715pt x 241.85036pt.
+
+Overfull \hbox (25.23715pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+[51 <./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822.png>]) [52 <./Grafi
+cos/Capitulo_3/ScoCen_Coordinates.png>]
 \openout2 = `Capitulos/Chapter04.aux'.
 
- (./Capitulos/Chapter04.tex [22
-
-
-
-
-]
+ (./Capitulos/Chapter04.tex
 chapter 4.
-) [23]
-\openout2 = `Capitulos/Chapter05.aux'.
 
- (./Capitulos/Chapter05.tex [24
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[53
 
 
 
 
 ]
-chapter 5.
-) [25] [26
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+) [55] [56
 
 
 
@@ -3412,51 +3002,122 @@ chapter 5.
 \tf@brf=\write10
 \openout10 = `MyThesis.brf'.
 
- [27
+ [57
 
 
 
 
 
-])) [28]
+] [58] [59]
+Underfull \hbox (badness 1033) in paragraph at lines 384--384
+\T1/futs/m/n/10.95 (+20) M. Kurpi«ska-Winiarska, M. Winiarski, S. Zoªa, W. Ogªo
+za, A. Ku¹micz, M. Dró»d»,
+ []
+
+[60] [61] [62] [63] [64])) [65] [66
+
+
+
+]
 \openout2 = `Capitulos/Appendix.aux'.
 
  (./Capitulos/Appendix.tex
-chapter 6.
+chapter 5.
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 12.
-(/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
-File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
-)
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 12.
-Package microtype Info: Loading generic settings for font family
-(microtype)             `fvm' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [29
+(Font)              scaled to size 8.50006pt on input line 13.
+[67
 
 
 
+] [68] [69]
+<./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png, id=2119, 1015.1526pt x 
+442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png Graphic file (type 
+png)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png 
+used on input line 135.
+(pdftex.def)             Requested size: 426.7949pt x 184.94493pt.
 
+<./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png, id=2128, 1015.1526pt x 
+442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png Graphic file (type 
+png)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png 
+used on input line 142.
+(pdftex.def)             Requested size: 426.7949pt x 184.94493pt.
 
+<./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_Original.png, id=2137, 101
+5.1526pt x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_Original.png Graphic 
+file (type png)
 
-]) [30]
+<use ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_Original.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_Or
+iginal.png used on input line 149.
+(pdftex.def)             Requested size: 426.7949pt x 184.94493pt.
+
+<./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN.png, id=2138, 1015.1526pt 
+x 442.2924pt>
+File: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN.png Graphic file (typ
+e png)
+ <use ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN.pn
+g used on input line 156.
+(pdftex.def)             Requested size: 426.7949pt x 184.94493pt.
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoSelection_2_2.png, id=214
+5, 1033.461pt x 442.0515pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoSelection_2_2.png Gr
+aphic file (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoSelection_2_2.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoS
+election_2_2.png used on input line 163.
+(pdftex.def)             Requested size: 426.79677pt x 184.93863pt.
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Selection.png, id=2146, 1034
+.9064pt x 437.2335pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Selection.png Graphic f
+ile (type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Selection.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Sele
+ction.png used on input line 170.
+(pdftex.def)             Requested size: 426.79361pt x 184.94444pt.
+
+<./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG.png, id=2159, 1033.461p
+t x 442.0515pt>
+File: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG.png Graphic file (
+type png)
+
+<use ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG.png>
+Package pdftex.def Info: ./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG
+.png used on input line 177.
+(pdftex.def)             Requested size: 426.79677pt x 184.93863pt.
+) [70 <./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png>] [71 <./Graficos/
+Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png> <./Graficos/Capitulo_3/5_Sco-Cen/fi
+nal_Sample_SCOCEN_Original.png>] [72 <./Graficos/Capitulo_3/5_Sco-Cen/final_Sam
+ple_SCOCEN.png> <./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoSelection
+_2_2.png>]
+[73 <./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Selection.png> <./Grafic
+os/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 361.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 361.
-
-(./MyThesis.aux (./FrontBackmatter/Titlepage.aux)
-(./FrontBackmatter/Titleback.aux) (./FrontBackmatter/Abstract.aux)
-(./FrontBackmatter/Acknowledgments.aux) (./FrontBackmatter/Contents.aux)
-(./Capitulos/Chapter01.aux) (./Capitulos/Chapter02.aux)
-(./Capitulos/Chapter03.aux) (./Capitulos/Chapter04.aux)
-(./Capitulos/Chapter05.aux) (./FrontBackmatter/Bibliography.aux)
+ (./MyThesis.aux
+(./FrontBackmatter/Titlepage.aux) (./FrontBackmatter/Titleback.aux)
+(./FrontBackmatter/Abstract.aux) (./FrontBackmatter/Acknowledgments.aux)
+(./FrontBackmatter/Contents.aux) (./Capitulos/Chapter01.aux)
+(./Capitulos/Chapter02.aux) (./Capitulos/Chapter03.aux)
+(./Capitulos/Chapter04.aux) (./FrontBackmatter/Bibliography.aux)
 (./Capitulos/Appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 361.
 
@@ -3625,73 +3286,108 @@ epstopdf-base.sty    2016/05/15 v2.6 Base part for package epstopdf
   grfext.sty    2016/05/16 v1.2 Manage graphics extensions (HO)
 epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 FrontBackmatter/Titlepage.tex
-gfx/EXO_3.jpg
+gfx/EXO_4.png
 gfx/Logo_Leiden.png
 FrontBackmatter/Titleback.tex
  ts1futs.fd    2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 FrontBackmatter/Abstract.tex
-FrontBackmatter/Acknowledgments.tex
-FrontBackmatter/Contents.tex
 fmlfutmi.fd    2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
   mt-msa.cfg    2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
   mt-msb.cfg    2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  ot1zplm.fd    2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+FrontBackmatter/Acknowledgments.tex
+   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
+FrontBackmatter/Contents.tex
 Capitulos/Chapter01.tex
+./Graficos/Capitulo_1/Gaia_DR1_Flux.png
+./Graficos/Capitulo_1/Gaia_DR2_Flux.png
+./Graficos/Capitulo_1/Gaia_DR2_FluxColor.png
+./Graficos/Capitulo_1/SWASP_DR1.png
+./Graficos/Capitulo_1/ScoCen.png
+./Graficos/Capitulo_1/Mamajek_J1407.png
+./Graficos/Capitulo_1/Rings.png
 Capitulos/Chapter02.tex
-./Graficos/Capitulo_2/Illustrations/Prob_1.png
-./Graficos/Capitulo_2/Illustrations/Prob_2.png
-./Graficos/Capitulo_2/Illustrations/Prob_4.png
-./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution_2.png
-./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution_2.png
-./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution_2.png
+./Graficos/Capitulo_2/Illustrations/Prob_1.jpg
+./Graficos/Capitulo_2/Illustrations/Prob_2.jpg
+./Graficos/Capitulo_2/Illustrations/Prob_4.jpg
 ./Graficos/Capitulo_2/2_Exop_distributions/Mass_distribution_Nielsen.png
 ./Graficos/Capitulo_2/2_Exop_distributions/Period_distribution_Nielsen.png
 ./Graficos/Capitulo_2/2_Exop_distributions/Period_mass_distribution.png
 ./Graficos/Capitulo_2/2_Exop_distributions/Period_major_distribution.png
 ./Graficos/Capitulo_2/2_Exop_distributions/Mass_major_distribution.png
+./Graficos/Capitulo_2/2_Exop_distributions/Salpeter.png
+./Graficos/Capitulo_2/2_Exop_distributions/Kroupa.png
+./Graficos/Capitulo_2/2_Exop_distributions/Linear_Interpolation.png
+./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen.png
+./Graficos/Capitulo_2/2_Exop_distributions/Monte-Carlo_KroupaNielsen_1.png
+./Graficos/Capitulo_2/2_Exop_distributions/MC_Analytic.png
+./Graficos/Capitulo_2/2_Exop_distributions/Analytic_rings_Kroupa_Nielsen.png
 Capitulos/Chapter03.tex
+./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_1.png
+./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_2.png
+./Graficos/Capitulo_3/5_Sco-Cen/Hist_Extintion_3.png
+./Graficos/Capitulo_3/5_Sco-Cen/Sco_Cen_Projection_flipped.png
+./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_2.png
+./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3_Extintion_cut.png
+./Graficos/Capitulo_3/5_Sco-Cen/Av_histograms.png
+./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4_Extintion_1.png
+./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_2.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_Iscohrones.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Clean_FinalSelection.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_FinalSelection_Tracks.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/Sco_Cen_FinalSample_Projection.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/J1407.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASPJ135747.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J162339.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/1SWASP_J145822.png
+./Graficos/Capitulo_3/ScoCen_Coordinates.png
 Capitulos/Chapter04.tex
-Capitulos/Chapter05.tex
 FrontBackmatter/Bibliography.tex
 MyThesis.bbl
 Capitulos/Appendix.tex
 lstlang1.sty    2015/06/04 1.6 listings language file
-   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
+./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_4.png
+./Graficos/Capitulo_3/5_Sco-Cen/Mag_Col_diagram_3.png
+./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN_Original.png
+./Graficos/Capitulo_3/5_Sco-Cen/final_Sample_SCOCEN.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/DR2_Sample_NoSelection_2_2.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/Lindegren_Selection.png
+./Graficos/Capitulo_3/7_DR2_LightCurves/CMD_Cleaned_MG.png
  ***********
 
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 361.
 Package rerunfilecheck Info: File `MyThesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0856943881040F1A50E62D4711C35D8C;2433.
+(rerunfilecheck)             Checksum: 48A54BE3A29028D852084131D9756D8C;2683.
 Package rerunfilecheck Info: File `MyThesis.brf' has not changed.
-(rerunfilecheck)             Checksum: A4F5871DB8B2801FBC3DB0A4AEE410CB;4598.
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: 77049BA6BC4B7DAD1382656C467199C5;33708.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 361.
  ) 
 Here is how much of TeX's memory you used:
- 31695 strings out of 493069
- 596531 string characters out of 6138222
- 1047090 words of memory out of 5000000
- 33896 multiletter control sequences out of 15000+600000
- 188676 words of font info for 380 fonts, out of 8000000 for 9000
+ 33159 strings out of 493069
+ 630452 string characters out of 6138222
+ 1201769 words of memory out of 5000000
+ 34917 multiletter control sequences out of 15000+600000
+ 328271 words of font info for 608 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 73i,12n,79p,8819b,1968s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,12n,89p,8819b,2179s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/fourier/fourier-mlit.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/u
-topia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a
+sfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/ut
+opia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putbi8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on MyThesis.pdf (38 pages, 4915006 bytes).
+hare/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb>
+Output written on MyThesis.pdf (89 pages, 26040029 bytes).
 PDF statistics:
- 788 PDF objects out of 1000 (max. 8388607)
- 705 compressed objects within 8 object streams
- 216 named destinations out of 1000 (max. 500000)
- 67454 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 2351 PDF objects out of 2487 (max. 8388607)
+ 2030 compressed objects within 21 object streams
+ 453 named destinations out of 1000 (max. 500000)
+ 96314 words of extra memory for PDF output out of 106986 (max. 10000000)
 

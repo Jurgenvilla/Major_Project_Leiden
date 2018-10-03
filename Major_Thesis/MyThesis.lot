@@ -2,8 +2,10 @@
 \deactivateaddvspace 
 \select@language {american}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {1}{\ignorespaces Data available for each photometric point \citeauthor {2006PASP..118.1407P}, (\citeyear {2006PASP..118.1407P}) in the \textit {SuperWASP} DR1 \citeauthor {2010A&A...520L..10B}, (\citeyear {2010A&A...520L..10B})\relax }}{7}{table.caption.10}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {2}{\ignorespaces \relax \fontsize {8}{9.5}\selectfont {ScoCen subgroups galactic coordinates selection box.}\relax }}{38}{table.caption.28}
+\contentsline {table}{\numberline {3}{\ignorespaces \textit {SuperWASP} candidates cross-matched with \textit {Gaia} DR2.\relax }}{50}{table.caption.41}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
