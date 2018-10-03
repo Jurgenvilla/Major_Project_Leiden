@@ -179,7 +179,7 @@
 \newcommand{\term}[1]{\emph{#1}}
 \newcommand{\cauthor}[1]{\relax}
 \@ifpackageloaded{natbib}%
-    {\renewcommand{\cauthor}[1]{\person{\citeauthor{#1}}}%
+    {\renewcommand{\cauthor}[1]{\person{\citeauthor{#1}},}%
     }{\PackageWarningNoLine{classicthesis-preamble}{Package "natbib" not loaded, %
         command "cauthor" will not work.}}
 \newcommand{\tableheadline}[1]{\multicolumn{1}{c}{\spacedlowsmallcaps{#1}}}

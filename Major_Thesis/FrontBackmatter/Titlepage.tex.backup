@@ -27,14 +27,15 @@
             %\color{halfgray}\spacedallcaps{\myTitle} \\ \bigskip
             %\color{halfgray}\hspace*{0.83cm}{\centering\spacedallcaps {\LARGE{ \hspace*{0.32cm}{An ALMA survey of sub-millimetre galaxies} \newline \hspace*{1.3cm}{in the extended \textit{Chandra} deep field south:} \newline A blind search for emission lines at 145 GHz} } }\\ \bigskip
             
-            \color{halfgray}\hspace*{0.83cm}{\centering\spacedallcaps {\LARGE{ \hspace*{-1.0cm}{On the search for exo-rings in \textit{Gaia} data} } } }\\ \bigskip
-            
+            \emph{\color{halfgray}\hspace*{0.83cm}{\centering\spacedallcaps {\LARGE {\hspace*{0.4cm}{Searching for exoplanetary rings with \newline \textit{SuperWASP} and \textit{Gaia} } } } } }\\ \bigskip
+                        
             %\color{halfgray}\hspace*{0.83cm}{\spacedallcaps{\LARGE { \hspace{0.8cm}{An ALMA survey of sub-millimetre galaxies} \newline in the extended \textit{Chandra} deep field south: \newline \hspace{1.0cm}{ALESS070.1 and ALESS122.1 properties} }}}\\ \bigskip
         \endgroup
        
-        \includegraphics[width=12cm,height=5cm]{gfx/EXO.jpg} \\       
+        \includegraphics[width=11.5cm,height=6cm]{gfx/EXO_4.png} \\   
+        %\includegraphics[width=12cm,height=6cm]{gfx/EXO_3.jpg} \\  
         
-		\vspace{1cm}
+		\vspace{0.5cm}
 		\medskip
 		\small \textbf{MAJOR RESEARCH PROJECT IN ASTRONOMY}\\
 		\vspace{1.0cm}
@@ -53,8 +54,8 @@
         \vspace{1cm}
          \textbf{Under the supervision of}\\ \medskip
         \myProf\\ \medskip
-         \textbf{Second Reader}\\ \medskip
-        \myOtherProf\\
+         %\textbf{Second Reader}\\ \medskip
+        %\myOtherProf\\
         
         \vfill
         \includegraphics[width=0.65\textwidth]{gfx/Logo_Leiden.png} \\ \bigskip 

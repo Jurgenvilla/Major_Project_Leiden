@@ -6,12 +6,30 @@
 \begin{flushright}{\slshape 
     Wat mij betreft weet ik niets zeker,\\
     maar naar de sterren kijken zet me aan het dromen.\\ \medskip}
-    ---\color{blue}{Vincent Willem van Gogh}\\ \footnotesize\textit{(1853 - 1890) Dutch Post-Impressionist painter }.
+    ---\color{halfgray}{Vincent Willem van Gogh}\\ \footnotesize\textit{(1853 \texttwelveudash 1890) Dutch Post-Impressionist painter }.
+\end{flushright}
+
+\begin{flushright}{\slshape 
+    It is sometimes said that scientists are unromantic, \\ that their passion to figure out robs the world of beauty and mystery. \\
+    But is it not stirring to understand how the world actually works \texttwelveudash  that white light is made of colors,
+    that color is the way we perceive the wavelengths of light,\\ that transparent air reflects light,
+    that in so doing it discriminates among the waves, \\ and that the sky is blue for the same reason that the sunset is red? \\
+    It does no harm to the romance of the sunset to know a little bit about it.\\ \medskip}
+    ---\color{halfgray}{Carl Sagan, Pale Blue Dot: A Vision of the Human Future in Space}\\ \footnotesize\textit{(1935 - 1996) American astronomer, cosmologist, astrophysicist, astrobiologist, author, science popularizer, and science communicator in astronomy and other natural sciences }.
+\end{flushright}
+
+\begin{flushright}{\slshape 
+    In  third Dialogue there is first denied that base illusion of the shape of the heavens,\\  of their spheres and diversity.\\
+    For the heaven is declared to be a single general space,\\ embracing the infinity of worlds,\\ 
+    though we do not deny that there are other infinite 'heavens'\\ using that word in another sense.\\ 
+    For just as this earth hath her own heaven (which is her own region),\\ through which she moveth and hath her course, \\
+    so the same may be said of each of the innumerable other worlds..\\ \medskip}
+---\color{halfgray}{Giordano Bruno}\\ \footnotesize\textit{(1548 \texttwelveudash 1600) Italian Dominican friar, philosopher, mathematician, poet, and cosmological theorist }.
 \end{flushright}
 
 
-
-\bigskip
+%\bigskip
+\newpage
 
 \begingroup
 \let\clearpage\relax
@@ -19,17 +37,29 @@
 \let\cleardoublepage\relax
 \chapter*{Acknowledgments}
 
-First and foremost I would like to thank my supervisor, Dr. Jaqueline Hodge who encouraged me to research in a completely different and beautiful branch of Astronomy as it is the Radio Astronomy. I am extremely grateful for all the new things she taught me in order to be a good researcher and to pave my way as a scientist.\\
+\bigskip
 
-To my parents, Jorge Mario Villa Mar\'in and Gladys V\'elez Mu\~noz who have trusted in me through this years, always supporting all my dreams and also now in this adventure. They have always been an important shoulder I can rely on to take every step forward on my way to be a good scientist. To all my family in Colombia and USA because this dream would have not been becoming real without their enormous help and trust in me.\\
+This work has made use of data from the European Space Agency (ESA) mission \textit{Gaia} (\url{https://www.cosmos.esa.int/gaia}), processed by the \textit{Gaia} Data Processing and Analysis Consortium (DPAC, \url{https://www.cosmos.esa.int/web/gaia/dpac/consortium}). Funding for the DPAC has been provided by national institutions, in particular the institutions participating in the \textit{Gaia} Multilateral Agreement. We also made use of data from the first public release of the \textit{WASP} data (\cauthor{2010A&A...520L..10B} \citeyear{2010A&A...520L..10B}) as provided by the \textit{WASP} consortium and services at the NASA Exoplanet Archive, which is operated by the California Institute of Technology, under contract with the National Aeronautics and Space Administration under the Exoplanet Exploration Program. The WASP consortium comprises the University of Cambridge, Keele University, University of Leicester, The Open University, The Queen's University Belfast, St. Andrews University, and the Isaac Newton Group. Funding for \textit{WASP} comes from the consortium universities and from the UK’s Science and Technology Facilities Council.\\
+
+This research made use of Astropy\footnote{\url{http://www.astropy.org/}}, a community-developed core Python package for Astronomy \cauthor{2013A&A...558A..33A} \citeyear{2013A&A...558A..33A}, and matplotlib\footnote{\url{http://matplotlib.org/}} for plotting the figures (\cauthor{2007CSE.....9...90H} \citeyear{2007CSE.....9...90H}).
+
+\bigskip
+
+\noindent{\color{halfgray}{\rule[0.5ex]{\linewidth}{0.5pt}}}
+
+\bigskip
+
+First and foremost I would like to thank my outstanding supervisors, Dr. A.G.A. Brown and Dr. M.A. (Matthew) Kenworthy, who encouraged me to do research in a completely different fashion, in a branch of Astronomy I had never worked on as it is the exoplanets using the Gaia mission. I am extremely grateful for all the new things they taught me in order to be a good researcher and to pave my way as a scientist. I learnt so many things, quite important for my future both as a person and as a scientist.\\
+
+To my parents, Jorge Mario Villa Mar\'in and Gladys V\'elez Mu\~noz who have trusted in me along these years, always supporting all my dreams and also now in this adventure. They have always been an important shoulder I can rely on to take every step forward on my way to be a good scientist. To all my family in Colombia and USA because this dream would have not been becoming real without their enormous help and trust in me. I am also really grateful with John Dar\'io Uribe, Cielo D\'iez, and Laura Uribe because they were unconditional to me and confident about this goal that now it is a reality.\\
 
 Also, to Paula Andrea Ort\'iz Ot\'alvaro who helped me to get rapidly involved in the Dutch life-style and feel Leiden as a second home since the first day. To my fellow master Colombian friends Juan Manuel Espejo Salcedo and Andr\'es Felipe Ramos Padilla for all those good times lived inside and outside the university. For all those enriching talks which shed light when problems seemed to have no solution. Someone, who motivated me to study and to look forward, Guadalupe Ca\~nas Herrera, my little Spanish friend, thanks for all those good advises and funny times.\\
 
 My dutch friends which helped me to feel this country as a second home, for all those good times and memories that will be forever in my mind (Michelle Willebrands, Esmee Stoop, Charlotte Brand, Lieke van Son, Marco Trueba van den Boom, Job van der Wardt, Dennis Vaendel, Lennart van Sluijs, Martijn Oei and Dirk van Dam). I would also like to dedicate this to my fellow international master friends who came here to make the same dream come true, Louis Martin, Michail Dagtzis and Pranav Kumar Mohanty. Last but not least, to Sofia Sarperi and Riccardo Mattia Baldo which I had the pleasure to meet during their Erasmus program in Leiden. To them, a big thank for all the good moments and conversations. \\
 
-When I arrived to Leiden I thought it was going to be impossible to keep on doing the things I used to in Medell\'in. However I met a group of beautiful people who accepted me and shared all their empathy with me. To the Chileans Valeria Olivares, Pedro Salas, Pablo Castellanos, Heather Andrews, Javiera Paz, Sebasti\'an Rumie and Nicol\'as Salinas. Also to my Mexican friend Santiago Torres, my Colombian friends Lina Bayona and Diana Aranzales who always took care of me. To one person who was always there to support and encourage me, my Portuguese friend Marta Figueiredo. To Dennis Hiltrop the kindest German I have ever met, with whom I had enriching talks.\\
+When I arrived to Leiden I thought it was going to be impossible to keep on doing the things I used to in Medell\'in. However I met a group of beautiful people who accepted me and shared all their empathy with me. To the Chileans Valeria Olivares, Pedro Salas, Pablo Castellanos, Heather Andrews, Javiera Paz, Sebasti\'an Rumie and Nicol\'as Salinas. Also to my Mexican friend Santiago Torres, my Colombian friends Lina Bayona and Diana Aranzales who always took care of me. To one person who was always there to support and encourage me, my Portuguese friend Marta Figueiredo. To Dennis Hiltrop the kindest German I have ever met, with whom I had enriching talks. To Kathy Fourment with who I had really nice talks and funny days.\\
 
-Before coming to The Netherlands I was going through a bad time and now that I am here witnessing this dream coming true I really need to thank to my cousin Jaime Mu\~noz and his family because they took care of me in California in one of my darkest times, helping and cheering me up. They always encouraged me to continue straight on the science path, being humble and never backing off.\\ 
+Before coming to The Netherlands I was going through a bad time and now that I am here witnessing this dream coming true I really need to thank to my cousin Jaime Mu\~noz and his husband William Lundquist because they took care of me while in California during one of my darkest times, helping and cheering me up when needed. They always encouraged me to continue straight on the science path, being humble and never backing off.\\ 
 
 To all the people who directly or indirectly made this first step on my way to get a master in Astronomy possible, many many thanks and I will keep on fighting until the end on my way to keep on reaching my dreams.
 
